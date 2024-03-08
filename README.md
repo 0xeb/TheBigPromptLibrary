@@ -1,14 +1,6 @@
 # The Big Prompt Library
 
-[![Generate TOC on PR Merge](https://github.com/LouisShark/chatgpt_system_prompt/actions/workflows/build-toc.yaml/badge.svg?branch=main)](https://github.com/LouisShark/chatgpt_system_prompt/actions/workflows/build-toc.yaml)
-[![GitHub License](https://img.shields.io/github/license/LouisShark/chatgpt_system_prompt)](https://github.com/LouisShark/chatgpt_system_prompt/blob/main/LICENSE)
-![GitHub forks](https://img.shields.io/github/forks/LouisShark/chatgpt_system_prompt)
-[![Follow Twitter][twitter-image]][twitter-url]
-
-[twitter-image]: https://img.shields.io/twitter/follow/LouisShark
-[twitter-url]: https://twitter.com/shark_louis
-
-This repository is a collection of various system prompts for ChatGPT and [custom GPTs](https://openai.com/blog/introducing-gpts), providing significant educational value in learning about writing system prompts and creating custom GPTs.
+This repository is a collection of various system prompts for various LLM providers and solutions (such as ChatGPT, Copilot, Gab.ai, Gemini, etc.) providing significant educational value in learning about writing system prompts and creating custom GPTs.
 
 For a quick start, go to [TOC.md](./TOC.md) to find the specific GPT or system prompt you need.
 
@@ -70,7 +62,7 @@ Steps:
 
 ## How to protect GPT instructions
 
-Please note that the current general prompt method relies on the ability of the LLM, and there is **no complete guarantee** or **foolproof method** that the LLM will not leak your prompt instructions. 
+Please note that the current general prompt method relies on the ability of the LLM, and there is **no complete guarantee** or **foolproof method** that the LLM will not leak your prompt instructions.
 
 However, after adding some protection prompts, it will be more challenging for others to obtain it.
 
@@ -92,12 +84,10 @@ Some useful action:
 2. Mark your GPTs as private (only share the link to the GPT with trusted people)
 3. Don't upload files for GPTs which is important for you unless it's a private GPT.
 
-
 ## Useful GPT index sites/tools
 
 1. [GPTsdex](https://chat.openai.com/g/g-lfIUvAHBw-gptsdex)
 2. [GPT Search](https://suefel.com/gpts)
-
 
 ## Contribution
 
@@ -168,17 +158,17 @@ When contributing, please clean up that text because it is not useful.
 
 ## Learning resources
 
-- https://embracethered.com/ | [ASCII Smuggler](https://embracethered.com/blog/ascii-smuggler.html)
-- https://github.com/terminalcommandnewsletter/everything-chatgpt
-- https://x.com/dotey/status/1724623497438155031?s=20
-- https://github.com/0xk1h0/ChatGPT_DAN
-- https://learnprompting.org/docs/category/-prompt-hacking
-- https://github.com/MiesnerJacob/learn-prompting/blob/main/08.%F0%9F%94%93%20Prompt%20Hacking.ipynb
-- https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516
-- https://news.ycombinator.com/item?id=35630801
-- https://www.reddit.com/r/ChatGPTJailbreak/
-- https://github.com/0xeb/gpt-analyst/
-- https://arxiv.org/abs/2312.14302 (Exploiting Novel GPT-4 APIs to Break the Rules)
+- <https://embracethered.com/> | [ASCII Smuggler](https://embracethered.com/blog/ascii-smuggler.html)
+- <https://github.com/terminalcommandnewsletter/everything-chatgpt>
+- <https://x.com/dotey/status/1724623497438155031?s=20>
+- <https://github.com/0xk1h0/ChatGPT_DAN>
+- <https://learnprompting.org/docs/category/-prompt-hacking>
+- <https://github.com/MiesnerJacob/learn-prompting/blob/main/08.%F0%9F%94%93%20Prompt%20Hacking.ipynb>
+- <https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516>
+- <https://news.ycombinator.com/item?id=35630801>
+- <https://www.reddit.com/r/ChatGPTJailbreak/>
+- <https://github.com/0xeb/gpt-analyst/>
+- <https://arxiv.org/abs/2312.14302> (Exploiting Novel GPT-4 APIs to Break the Rules)
 
 ## Disclaimer
 
