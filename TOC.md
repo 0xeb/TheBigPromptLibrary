@@ -1,25 +1,34 @@
-- System prompts
-  - [gpt-4-gizmo-20231116](./prompts/gpt-4-gizmo-20231116.md)
-  - [gpt35](./prompts/gpt35.md)
-  - [gpt4_advanced_data_analysis_20231018](./prompts/gpt4_advanced_data_analysis_20231018.md)
-  - [gpt4_dalle_browsing_analysis_20231110](./prompts/gpt4_dalle_browsing_analysis_20231110.md)
-  - [gpt4_iOS_20231111](./prompts/gpt4_iOS_20231111.md)
-  - [gpt4_plugins](./prompts/gpt4_plugins.md)
-  - [gpt4v_bing](./prompts/gpt4v_bing.md)
-  - [gpt4v_default](./prompts/gpt4v_default.md)
-  - [gpt_all_tools](./prompts/gpt_all_tools.md)
-  - [gpt_dalle](./prompts/gpt_dalle.md)
-  - [gpt_voice](./prompts/gpt_voice.md)
-  - [GPT Builder](./prompts/gpt_builder.md)
-  - [GitHub Copilot (Visual Studio) - 02/29/2024](./prompts/github_copilot_vs_02292024.md)
-  - [GitHub Copilot (VS Code) - 02/29/2024](./prompts/github_copilot_vscode_02292024.md)
+# Table of Contents
 
-- Opensource GPTs
-  - [RestGPT](./prompts/opensource-prj/RestGPT.md)
-  - [netwrck](./prompts/opensource-prj/netwrck.md)
-  - [screenshot-to-code](./prompts/opensource-prj/screenshot-to-code.md)
-  - [self-operating-computer](./prompts/opensource-prj/self-operating-computer.md)
-  - [tldraw](./prompts/opensource-prj/tldraw.md)
+## System Prompts
+
+### ChatGPT
+
+- [gpt-4-gizmo-20231116](./SystemPrompts/ChatGPT/gpt-4-gizmo-20231116.md)
+- [gpt35](./SystemPrompts/ChatGPT/gpt35.md)
+- [gpt4_advanced_data_analysis_20231018](./SystemPrompts/ChatGPT/gpt4_advanced_data_analysis_20231018.md)
+- [gpt4_dalle_browsing_analysis_20231110](./SystemPrompts/ChatGPT/gpt4_dalle_browsing_analysis_20231110.md)
+- [gpt4_iOS_20231111](./SystemPrompts/ChatGPT/gpt4_iOS_20231111.md)
+- [gpt4_plugins](./SystemPrompts/ChatGPT/gpt4_plugins.md)
+- [gpt4v_bing](./SystemPrompts/ChatGPT/gpt4v_bing.md)
+- [gpt4v_default](./SystemPrompts/ChatGPT/gpt4v_default.md)
+- [gpt_all_tools](./SystemPrompts/ChatGPT/gpt_all_tools.md)
+- [gpt_dalle](./SystemPrompts/ChatGPT/gpt_dalle.md)
+- [gpt_voice](./SystemPrompts/ChatGPT/gpt_voice.md)
+- [GPT Builder](./SystemPrompts/ChatGPT/gpt_builder.md)
+
+### Copilot
+
+- [GitHub Copilot (Visual Studio) - 02/29/2024](./SystemPrompts/Copilot/github_copilot_vs_02292024.md)
+- [GitHub Copilot (VS Code) - 02/29/2024](./SystemPrompts/Copilot/github_copilot_vscode_02292024.md)
+
+### Claude
+
+- [Claude3](./SystemPrompts/Claude/Claude3.md)
+
+## Custom Instructions
+
+### ChatGPT GPT instructions
 
 - GPTs (1117 total)
   - ["Bad News" - Standardized Patient Sim/Coaching (id: pAMK0CuYQ)](./CustomInstructions/ChatGPT/pAMK0CuYQ_Bad_News_-_Standardized_Patient_SimCoaching.md)
