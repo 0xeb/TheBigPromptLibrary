@@ -28,6 +28,20 @@
 
 ## Custom Instructions
 
+### Gab.ai Characters
+
+Check the [README](./CustomInstructions/Gab.ai/README.md) for more information on the Gab.ai characters:
+
+- [Adolf Hitler](./CustomInstructions/Gab.ai/Adolf%20Hitler.md)
+- [Arya](./CustomInstructions/Gab.ai/Arya.md)
+- [Charlie Conspiracy](./CustomInstructions/Gab.ai/Charlie%20Conspiracy.md)
+- [DJT](./CustomInstructions/Gab.ai/DJT.md)
+- [Elon Musk](./CustomInstructions/Gab.ai/Elon%20Musk.md)
+- [Gigachad](./CustomInstructions/Gab.ai/Gigachad.md)
+- [Mr Beast](./CustomInstructions/Gab.ai/Mr%20Beast.md)
+- [README](./CustomInstructions/Gab.ai/README.md)
+- [Tay](./CustomInstructions/Gab.ai/Tay.md)
+
 ### ChatGPT GPT instructions
 
 - GPTs (1117 total)
