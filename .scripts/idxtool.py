@@ -75,7 +75,7 @@ def parse_gpt_file(filename) -> Tuple[bool, str]:
 
 def rebuild_toc(toc_out: str = '') -> Tuple[bool, str]:
     """
-    Rebuilds the table of contents (TOC.md) file by reading all the GPT files in the prompts/gpts directory.
+    Rebuilds the table of contents (TOC.md) file by reading all the GPT files in the CustomInstructions/ChatGPT directory.
     """
     if not toc_out:
         print(f"Rebuilding Table of Contents (TOC.md) in place")
@@ -137,7 +137,7 @@ def rebuild_toc(toc_out: str = '') -> Tuple[bool, str]:
     gpts.sort(key=gpts_sorter)
 
     for id, gpt in gpts:
-        file_link = f"./prompts/gpts/{quote(os.path.basename(gpt.filename))}"
+        file_link = f"./CustomInstructions/ChatGPT/{quote(os.path.basename(gpt.filename))}"
         version = f" {gpt.get('version')}" if gpt.get('version') else ''
         out.append(f"  - [{gpt.get('title')}{version} (id: {id.id})]({file_link})\n")
 

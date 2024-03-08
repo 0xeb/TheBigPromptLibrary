@@ -135,7 +135,7 @@ def parse_gpturl(url: str) -> Union[GptIdentifier, None]:
 
 def get_prompts_path() -> str:
     """Return the path to the prompts directory."""
-    return os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'prompts', 'gpts'))
+    return os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'CustomInstructions', 'ChatGPT'))
 
 def enum_gpts() -> Generator[Tuple[bool, Union[GptMarkdownFile, str]], None, None]:
     """Enumerate all the GPT files in the prompts directory, parse them and return the parsed GPT object."""
