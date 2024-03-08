@@ -27,8 +27,8 @@ jobs:
 
       - name: Commit TOC updates
         run: |
-          git config --global user.name 'LouisShark'
-          git config --global user.email 'mshark.louis@gmail.com'
+          git config --global user.name '0xeb'
+          git config --global user.email 'elias.bachaalany@gmail.com'
           git add .
           git commit -m "docs: Update TOC.md" || echo "No changes to commit"
           git pull --rebase
