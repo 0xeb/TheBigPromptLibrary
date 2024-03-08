@@ -1,10 +1,10 @@
 # The Big Prompt Library
 
-This repository is a collection of various system prompts for various LLM providers and solutions (such as ChatGPT, Copilot, Gab.ai, Gemini, etc.) providing significant educational value in learning about writing system prompts and creating custom GPTs.
+This repository is a collection of various system prompts for various LLM providers and solutions (such as ChatGPT, Copilot, Gab.ai, etc.) providing significant educational value in learning about writing system prompts and creating custom GPTs.
 
 For a quick start, go to [TOC.md](./TOC.md) to find the specific GPT or system prompt you need.
 
-Other topics:
+Topics:
 
 - [How to get system prompt?](#how-to-get-system-prompt)
 - [How to get knowledge files?](#how-to-get-knowledge-files)
@@ -13,6 +13,12 @@ Other topics:
 - [Find system prompts and custom GPTs](./TOC.md)
 - [Learning resources](#learning-resources)
 - [Contribution](#contribution)
+
+## Disclaimer
+
+The content of this repository, including custom instructions and system prompts, is intended solely for learning and informational use. It's designed to help improve prompt writing abilities and inform about the risks of prompt injection security.
+
+We strictly oppose using this information for any unlawful purposes. We are not liable for any improper use of the information shared in this repository.
 
 ## How to get the system prompt/instructions
 
@@ -83,11 +89,6 @@ Some useful action:
 1. Close GPTs 'Code Interpreter' feature (this makes it hard to leak the files)
 2. Mark your GPTs as private (only share the link to the GPT with trusted people)
 3. Don't upload files for GPTs which is important for you unless it's a private GPT.
-
-## Useful GPT index sites/tools
-
-1. [GPTsdex](https://chat.openai.com/g/g-lfIUvAHBw-gptsdex)
-2. [GPT Search](https://suefel.com/gpts)
 
 ## Contribution
 
@@ -169,12 +170,4 @@ When contributing, please clean up that text because it is not useful.
 - <https://www.reddit.com/r/ChatGPTJailbreak/>
 - <https://github.com/0xeb/gpt-analyst/>
 - <https://arxiv.org/abs/2312.14302> (Exploiting Novel GPT-4 APIs to Break the Rules)
-
-## Disclaimer
-
-The sharing of these prompts/instructions is purely for reference and knowledge sharing, aimed at enhancing everyone's prompt writing skills and raising awareness about prompt injection security.
-
-I have indeed noticed that many GPT authors have improved their security measures, learning from these breakdowns on how to better protect their work.
-I believe this aligns with the project's purpose.
-
-If you are confused about this, please contact me.
+- <https://suefel.com/gpts>
