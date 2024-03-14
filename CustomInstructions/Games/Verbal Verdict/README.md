@@ -18,6 +18,8 @@ Whisper allows the player to speak instead of typing, then the audio gets transc
 
 The [Mistral Instruct 7B v0.2](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2) model was used as observed in the `gguf-1.gguf` that ships with the game.
 
+In theory, it is possible to use any other model of your choice by simply running `llamafile` with a different model (see below).
+
 ### llamafile
 
 [llamafile](https://github.com/Mozilla-Ocho/llamafile) has been used to provide the local web server to serve the game with the Mistral model from above.
