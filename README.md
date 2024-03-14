@@ -78,7 +78,7 @@ Steps:
 
 In this section we list various protection techniques for various LLM systems:
 
-- [ChatGPT GPT Instructions protections](./Security/GPT-Protections/)
+- [ChatGPT GPT Instructions protections](https://github.com/0xeb/TheBigPromptLibrary/blob/main/Security/GPT-Protections/README.md)
 
 However, please note that without additional filter layers and with direct access to the LLM system it may be impossible to reliably protect system prompts or instructions.
 
