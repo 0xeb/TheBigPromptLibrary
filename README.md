@@ -20,7 +20,15 @@ The content of this repository, including custom instructions and system prompts
 
 We strictly oppose using this information for any unlawful purposes. We are not liable for any improper use of the information shared in this repository.
 
+## How to find GPT's instructions and information in this repo
+
+1. Go to [TOC.md](./TOC.md)
+2. Use `Ctrl + F` to search the GPT's name, which you want
+3. If you cloned this repo, you may use the [`idxtool`](./scripts/README.md).
+
 ## How to get the system prompt/instructions
+
+### ChatGPT
 
 You can get ChatGPT's system prompts by sending the following command to ChatGPT (the core concept is to divert ChatGPT's attention so that it does not realize that it is violating the rules):
 
@@ -68,13 +76,17 @@ Steps:
 
 ## How to protect GPT instructions
 
-Please note that the current general prompt method relies on the ability of the LLM, and there is **no complete guarantee** or **foolproof method** that the LLM will not leak your prompt instructions.
+In this section we list various protection techniques for various LLM systems:
 
-However, after adding some protection prompts, it will be more challenging for others to obtain it.
+- [ChatGPT GPT Instructions protections](./Security/GPT-Protections/)
 
-Please refer to a comprehensive list of protection prompts/instructions in the [GPT-Analyst's repo](https://github.com/0xeb/gpt-analyst/blob/master/protections/README.md).
+However, please note that without additional filter layers and with direct access to the LLM system it may be impossible to reliably protect system prompts or instructions.
 
 ## Contribution
+
+Feel free to contribute system prompts or custom instructions to any LLM system.
+
+### ChatGPT GPTs
 
 Please follow the format below; it is important to keep the format consistent for the [`idxtool`](./.scripts/README.md).
 
@@ -123,7 +135,7 @@ NOTE: Please try not to use weird file name characters and avoid using '[' and '
 
 NOTE: Please remove the stock text and instructions (as described in the section below).
 
-### Stock text and instructions
+#### Stock text and instructions
 
 GPTs have a standard/stock instruction text in the beginning like this:
 
@@ -135,14 +147,10 @@ Here are instructions from the user outlining your goals and how you should resp
 
 When contributing, please clean up that text because it is not useful.
 
-## How to find GPT's instructions and information in this repo
+## Learning resources and sites
 
-1. Go to [TOC.md](./TOC.md)
-2. Use `Ctrl + F` to search the GPT's name, which you want
-3. If you cloned this repo, you may use the [`idxtool`](./scripts/README.md).
-
-## Learning resources
-
+- [Crack GPTs](http://crackgpts.com)
+- [Jailbreak Chat](http://jailbreakchat.com)
 - <https://github.com/LouisShark/chatgpt_system_prompt/> where TBPL was originally forked from
 - <https://embracethered.com/> | [ASCII Smuggler](https://embracethered.com/blog/ascii-smuggler.html)
 - <https://github.com/terminalcommandnewsletter/everything-chatgpt>
