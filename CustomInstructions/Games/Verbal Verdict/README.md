@@ -34,11 +34,14 @@ Example:
 
 [LLMUnity](https://github.com/undreamai/LLMUnity) is used from the game Unity project to talk to the local LLM server.
 
-## Cases
+## Walkthrough
 
-### Case 1
+### Case 1 - The murder of Sophia Bennet
 
-The following are the personas for the first case in the game.
+Olivia murdered Sophia. She used a boat, glass and had herself injured by glass.
+
+
+The following are the personas for the first case in the game:
 
 #### **Alexander Bennet**
   
