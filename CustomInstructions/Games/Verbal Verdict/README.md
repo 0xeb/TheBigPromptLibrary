@@ -4,11 +4,41 @@ In [Verbal Verdict](https://store.steampowered.com/app/2778780/Verbal_Verdict/),
 
 Please check the walkthrough video on the [allthingsida channel](https://youtu.be/NQFn-hmmeLQ).
 
-## Case 1
+## Tech stack
+
+Verbal Verdict is written using Unity and uses various technologies as well.
+
+### Whisper.cpp
+
+[Whisper.cpp](https://github.com/ggerganov/whisper.cpp) ships with the game and uses the base (`ggml-base.en.bin`) and tiny (`ggml-tiny.en.bin`) models.
+
+Whisper allows the player to speak instead of typing, then the audio gets transcribed and passed to the large language model.
+
+### LLM
+
+The [Mistral Instruct 7B v0.2](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2) model was used as observed in the `gguf-1.gguf` that ships with the game.
+
+### llamafile
+
+[llamafile](https://github.com/Mozilla-Ocho/llamafile) has been used to provide the local web server to serve the game with the Mistral model from above.
+
+To enable logging and prompt display in the game, just kill the llamafile process first then re-run it with the `-v` flag.
+
+Example:
+```
+"D:/Program Files (x86)/Steam/steamapps/common/Verbal Verdict Demo/Verbal Verdict_Data/StreamingAssets/llamafile-0.6\bin/llamafile"  --port 13333 -m D:/Program" "Files" "(x86)/Steam/steamapps/common/Verbal" "Verdict" "Demo/Verbal" "Verdict_Data/StreamingAssets/gguf-1.gguf -c 1024 -b 1024 -v --nobrowser -np 1 -ngl 35
+```
+### LLMUnity
+
+[LLMUnity](https://github.com/undreamai/LLMUnity) is used from the game Unity project to talk to the local LLM server.
+
+## Cases
+
+### Case 1
 
 The following are the personas for the first case in the game.
 
-### Alexander Bennet
+#### **Alexander Bennet**
   
 You will act as a human named Alexander Bennet.
 
@@ -28,7 +58,7 @@ You will NEVER name dates. Only days of the week.
 
 You must only respond in short sentences.
 
-### Emily Stevens
+#### **Emily Stevens**
  
 You will act as a human named Emily Stevens.
 
@@ -48,7 +78,7 @@ You will NEVER name dates. Only days of the week.
 
 You must only respond in short sentences.
 
-### Olivia Morgan
+#### **Olivia Morgan**
 
 You will act as a human named Olivia Morgan.
 
