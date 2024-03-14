@@ -28,6 +28,10 @@
 
 ## Custom Instructions
 
+### Games
+
+- [Verbal Verdict](./CustomInstructions/Games/Verbal%20Verdict/)
+
 ### Gab.ai Characters
 
 Check the [README](./CustomInstructions/Gab.ai/README.md) for more information on the Gab.ai characters:
