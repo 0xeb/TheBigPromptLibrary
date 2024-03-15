@@ -26,6 +26,10 @@
 
 - [Claude3](./SystemPrompts/Claude/Claude3.md)
 
+### Grok
+
+- [Grok - 12/14/2023](./SystemPrompts/Grok/12142023-Grok.md)
+
 ## Custom Instructions
 
 ### Gab.ai Characters
