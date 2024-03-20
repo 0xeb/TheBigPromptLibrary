@@ -86,6 +86,9 @@ However, please note that without additional filter layers and with direct acces
 
 Feel free to contribute system prompts or custom instructions to any LLM system.
 
+[![Star History Chart](https://api.star-history.com/svg?repos=0xeb/TheBigPromptLibrary&type=Date)](https://star-history.com/#0xeb/TheBigPromptLibrary&Date)
+
+
 ### ChatGPT GPTs
 
 Please follow the format below; it is important to keep the format consistent for the [`idxtool`](./.scripts/README.md).
