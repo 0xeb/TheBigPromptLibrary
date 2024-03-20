@@ -52,7 +52,7 @@ Check the [README](./CustomInstructions/Gab.ai/README.md) for more information o
 
 ### ChatGPT GPT instructions
 
-- GPTs (1147 total)
+- GPTs (1148 total)
   - ["Bad News" - Standardized Patient Sim/Coaching (id: pAMK0CuYQ)](./CustomInstructions/ChatGPT/pAMK0CuYQ_Bad_News_-_Standardized_Patient_SimCoaching.md)
   - ["Correlation isn't Causation" - A causal explainer (id: GGnYfbTin)](./CustomInstructions/ChatGPT/GGnYfbTin_Correlation%20isn%27t%20Causation-A%20causal%20explainer.md)
   - [1. Lead Generation (id: AvwWFWDdg)](./CustomInstructions/ChatGPT/AvwWFWDdg_1._Lead_Generation.md)
@@ -1161,6 +1161,7 @@ Hirokichi Uncle Defeats Shin-Shin Injection for Sure (id: wUVxk8YsV)](./CustomIn
   - [春霞つくし Tsukushi Harugasumi (id: l1cAnHy7S)](./CustomInstructions/ChatGPT/l1cAnHy7S_%E6%98%A5%E9%9C%9E%E3%81%A4%E3%81%8F%E3%81%97%20Tsukushi%20Harugasumi.md)
   - [替え歌ジェネレーター (id: p6xUc4Mpm)](./CustomInstructions/ChatGPT/p6xUc4Mpm_Parody%20Song%20Generator.md)
   - [未来問 (id: iL2R6mcaP)](./CustomInstructions/ChatGPT/iL2R6mcaP_%E6%9C%AA%E6%9D%A5%E5%95%8F.md)
+  - [机器国 · 角色一致性画师 (id: raEMV4ouH)](./CustomInstructions/ChatGPT/raEMV4ouH_Machine%20Kingdom_Character%20Consistency%20Artist.md)
   - [枫叶林 (id: P890478mJ)](./CustomInstructions/ChatGPT/P890478mJ_%E6%9E%AB%E5%8F%B6%E6%9E%97.md)
   - [武林秘传：江湖探险 Secrets of Martial Arts (id: 1qBbVvF0T)](./CustomInstructions/ChatGPT/1qBbVvF0T_%E6%AD%A6%E6%9E%97%E7%A7%98%E4%BC%A0_%E6%B1%9F%E6%B9%96%E6%8E%A2%E9%99%A9.md)
   - [猫耳美少女イラストメーカー (id: v1aRJ6GhG)](./CustomInstructions/ChatGPT/v1aRJ6GhG_%E7%8C%AB%E8%80%B3%E7%BE%8E%E5%B0%91%E5%A5%B3%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC.md)
