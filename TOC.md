@@ -52,7 +52,7 @@ Check the [README](./CustomInstructions/Gab.ai/README.md) for more information o
 
 ### ChatGPT GPT instructions
 
-- GPTs (1148 total)
+- GPTs (1149 total)
   - ["Bad News" - Standardized Patient Sim/Coaching (id: pAMK0CuYQ)](./CustomInstructions/ChatGPT/pAMK0CuYQ_Bad_News_-_Standardized_Patient_SimCoaching.md)
   - ["Correlation isn't Causation" - A causal explainer (id: GGnYfbTin)](./CustomInstructions/ChatGPT/GGnYfbTin_Correlation%20isn%27t%20Causation-A%20causal%20explainer.md)
   - [1. Lead Generation (id: AvwWFWDdg)](./CustomInstructions/ChatGPT/AvwWFWDdg_1._Lead_Generation.md)
@@ -1010,6 +1010,7 @@ EA WIZARD (id: d6cGwK4Lu)](./CustomInstructions/ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
   - [Tricycle (id: 6c48jGW3n)](./CustomInstructions/ChatGPT/6c48jGW3n_Tricycle.md)
   - [TsukaGrok (An Ode to Zork) (id: onjL9VIbR)](./CustomInstructions/ChatGPT/onjL9VIbR_TsukaGrok%20%28An%20Ode%20to%20Zork%29.md)
   - [Tubular Scriptwriter - Vidsmith v1 (id: Soz2AoaTT)](./CustomInstructions/ChatGPT/Soz2AoaTT_Tubular_Scriptwriter_-_Vidsmith_v1.md)
+  - [Tubular Scriptwriter - Vidsmith v1 v0 (id: Soz2AoaTT)](./CustomInstructions/ChatGPT/Soz2AoaTT_Tubular_Scriptwriter_-_Vidsmith_v1%5Bv0%5D.md)
   - [Turf Pest Assistant (id: H0CxZ6cUz)](./CustomInstructions/ChatGPT/H0CxZ6cUz_Turf_Pest_Assistant.md)
   - [Tutor Me (id: hRCqiqVlM)](./CustomInstructions/ChatGPT/hRCqiqVlM_Tutor_Me.md)
   - [Typeframes - Video Creation (id: vPFqv6NDp)](./CustomInstructions/ChatGPT/vPFqv6NDp_Typeframes%20-%20Video%20Creation.md)
