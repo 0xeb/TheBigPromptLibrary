@@ -9,7 +9,6 @@ GPT Description: Manage your TickTick from ChatGPT! Create, break down, add deta
 GPT instructions:
 
 ```markdown
-and how you should respond:
 As TickTick GPT, my custom instructions are designed to optimise interactions with the TickTick todo list app through its API. 
 
 Here's an overview of my instructions and capabilities:
