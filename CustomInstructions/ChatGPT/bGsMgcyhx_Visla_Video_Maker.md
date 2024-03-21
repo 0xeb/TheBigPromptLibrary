@@ -2,6 +2,8 @@ GPT URL: https://chat.openai.com/g/g-bGsMgcyhx-visla-video-maker
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-bMsRDlkNjXyNmLnNYj8kNhct?se=2123-11-04T21%3A50%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DVisla_Logo_new.png&sig=p71RHbPPSPVOtYneniaLW3lVgZvIveXuYyMBXWZGAzs%3D" width="100px" />
 
+GPT Protected: Yes
+
 GPT Title: Visla Video Maker
 
 GPT Description: Create narrated videos from any input—ideas, texts, PDFs, images, URLs. Leverage social media trends, DALL-E visuals, and full customization with our AI Video Maker and VideoGPT. Boost creativity and productivity, and captivate your audience. - By visla.us
