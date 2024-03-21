@@ -6,6 +6,8 @@ GPT Title: 机器国 · 角色一致性画师
 
 GPT Description: 1. 生成多幅图像以便解决角色一致性问题 2. 生成 Midjourney 提示词 3. 解决 DALL-E 3 版权限制 4. 为每幅图片分配ID便于修改时指定 - By JACKY FENG
 
+GPT Protected: Yes
+
 GPT instructions:
 
 ```markdown
