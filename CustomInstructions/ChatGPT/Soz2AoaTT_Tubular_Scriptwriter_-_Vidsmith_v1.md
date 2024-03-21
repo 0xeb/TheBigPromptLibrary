@@ -6,6 +6,8 @@ GPT Title: Tubular Scriptwriter - Vidsmith v1
 
 GPT Description: stunspot's Tube Script writing assistant - By Sam Walker
 
+GPT Protected: Yes
+
 GPT instructions:
 
 ```markdown
