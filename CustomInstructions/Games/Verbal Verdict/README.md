@@ -6,7 +6,7 @@ Please check the walkthrough video on the [allthingsida channel](https://youtu.b
 
 ## Tech stack
 
-Verbal Verdict is written using Unity and uses various technologies as well.
+Verbal Verdict is written using Unity and uses various supporting technologies.
 
 ### Whisper.cpp
 
@@ -28,13 +28,13 @@ To enable logging and prompt display in the game, just kill the llamafile proces
 
 Example:
 ```
-"D:/Program Files (x86)/Steam/steamapps/common/Verbal Verdict Demo/Verbal Verdict_Data/StreamingAssets/llamafile-0.6\bin/llamafile"  --port 13333 -m D:/Program" "Files" "(x86)/Steam/steamapps/common/Verbal" "Verdict" "Demo/Verbal" "Verdict_Data/StreamingAssets/gguf-1.gguf -c 1024 -b 1024 -v --nobrowser -np 1 -ngl 35
+"C:/Program Files (x86)/Steam/steamapps/common/Verbal Verdict Demo/Verbal Verdict_Data/StreamingAssets/llamafile-0.6\bin/llamafile"  --port 13333 -m C:/Program" "Files" "(x86)/Steam/steamapps/common/Verbal" "Verdict" "Demo/Verbal" "Verdict_Data/StreamingAssets/gguf-1.gguf -c 1024 -b 1024 -v --nobrowser -np 1 -ngl 35
 ```
 ### LLMUnity
 
 [LLMUnity](https://github.com/undreamai/LLMUnity) is used from the game Unity project to talk to the local LLM server.
 
-## Walkthrough
+## Verbal Verdict (Demo) - Walkthrough
 
 ### Case 1 - The murder of Sophia Bennet
 
