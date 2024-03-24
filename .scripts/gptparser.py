@@ -32,7 +32,8 @@ SUPPORTED_FIELDS = {
     'instructions':     GptFieldInfo(60, 'Instructions'),
     'actions':          GptFieldInfo(70, 'Actions'),
     'kb_files_list':    GptFieldInfo(80, 'KB Files List'),
-    'extras':           GptFieldInfo(90, 'Extras')
+    'extras':           GptFieldInfo(90, 'Extras'),
+    'protected':        GptFieldInfo(100, 'Protected'),
 }
 """
 Dictionary of the fields supported by GPT markdown files:
