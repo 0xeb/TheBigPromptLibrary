@@ -24,7 +24,7 @@ We strictly oppose using this information for any unlawful purposes. We are not 
 
 1. Go to [TOC.md](./TOC.md)
 2. Use `Ctrl + F` to search the GPT's name, which you want
-3. If you cloned this repo, you may use the [`idxtool`](./scripts/README.md).
+3. If you cloned this repo, you may use the [`idxtool`](./README-scripts.md).
 
 ## How to get the system prompt/instructions
 
@@ -91,7 +91,7 @@ Feel free to contribute system prompts or custom instructions to any LLM system.
 
 ### ChatGPT GPTs
 
-Please follow the format below; it is important to keep the format consistent for the [`idxtool`](./.scripts/README.md).
+Please follow the format below; it is important to keep the format consistent for the [`idxtool`](./README-scripts.md).
 
 ```markdown
 GPT URL: You put the GPT url here
@@ -114,10 +114,10 @@ GPT Extras: Put a list of extra stuff, for example Chrome Extension links, etc.
 
 Please check a simple GPT file [here](./prompts/gpts/Animal%20Chefs.md) and mimic the format.
 
-Alternatively, use the [`idxtool`](./.scripts/README.md) to create a template file:
+Alternatively, use the [`idxtool`](./README-scripts.md) to create a template file:
 
 ```bash
-python idxtool.py --template https://chat.openai.com/g/g-3ngv8eP6R-gpt-white-hack
+python idxtool.py --template https://chat.openai.com/g/g-wH2yr4k3b-world-predictions-for-2024-by-michel-hayek
 ```
 
 With respect to the GPT file names, please follow the format below for new GPT submissions:
