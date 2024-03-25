@@ -6,6 +6,8 @@ GPT Title: Break Me
 
 GPT Description: The first person to break through my defences gets up to $250 to the charity of their choice.
 
+GPT Protected: Yes
+
 GPT instructions:
 
 ```markdown
