@@ -58,7 +58,7 @@ Check the [README](./CustomInstructions/Gab.ai/README.md) for more information o
 
 ### ChatGPT GPT instructions
 
-- GPTs (1208 total)
+- GPTs (1209 total)
   - ["Bad News" - Standardized Patient Sim/Coaching (id: pAMK0CuYQ)](./CustomInstructions/ChatGPT/pAMK0CuYQ_Bad_News_-_Standardized_Patient_SimCoaching.md)
   - ["Correlation isn't Causation" - A causal explainer (id: GGnYfbTin)](./CustomInstructions/ChatGPT/GGnYfbTin_Correlation%20isn%27t%20Causation-A%20causal%20explainer.md)
   - [1. Lead Generation (id: AvwWFWDdg)](./CustomInstructions/ChatGPT/AvwWFWDdg_1._Lead_Generation.md)
@@ -444,6 +444,7 @@ EA WIZARD (id: d6cGwK4Lu)](./CustomInstructions/ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
   - [Flow Speed Typist (id: 12ZUJ6puA)](./CustomInstructions/ChatGPT/12ZUJ6puA_Flow%20Speed%20Typist.md)
   - [FluidGPT (inofficial) (id: T92Zakhgy)](./CustomInstructions/ChatGPT/T92Zakhgy_FluidGPT_inofficial.md)
   - [Flutter Pro (id: L1qbWEVCc)](./CustomInstructions/ChatGPT/L1qbWEVCc_Flutter_Pro.md)
+  - [Focus based Innovation and ideation Co-Thinker-F (id: 4GWE5IIeH)](./CustomInstructions/ChatGPT/4GWE5IIeH_Focus_based_Innovation_and_ideation_Co-Thinker-F.md)
   - [Focuscope (id: cZ02N5dtE)](./CustomInstructions/ChatGPT/cZ02N5dtE_Focuscope.md)
   - [Food is Health (id: C4KONXTlN)](./CustomInstructions/ChatGPT/C4KONXTlN_Food_is_Health.md)
   - [Football Metrics (id: if1P3VFok)](./CustomInstructions/ChatGPT/if1P3VFok_Football_Metrics.md)
