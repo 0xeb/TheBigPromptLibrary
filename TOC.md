@@ -32,6 +32,10 @@
 
 - [Grok - 12/14/2023](./SystemPrompts/Grok/12142023-Grok.md)
 
+### Databricks
+
+- [DBRX Instruct model system prompt - 03/27/2024](./SystemPrompts/Databricks/DBRX%20Instruct_03272024.md)
+
 ### Perplexity.ai
 
 - [Perplexity.ai - 03/20/2024](./SystemPrompts/Perplexity.ai/20240320-Perplexity.md)
