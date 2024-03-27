@@ -19,7 +19,7 @@
 
 ### Copilot
 
-- [Microsoft Copilit (Preview) - 03/21/2024](./SystemPrompts/Copilot/microsoft_copilot_preview_03212024.md)
+- [Microsoft Copilot (Preview) - 03/21/2024](./SystemPrompts/Copilot/microsoft_copilot_preview_03212024.md)
 - [GitHub Copilot (Visual Studio) - 02/29/2024](./SystemPrompts/Copilot/github_copilot_vs_02292024.md)
 - [GitHub Copilot (VS Code) - 02/29/2024](./SystemPrompts/Copilot/github_copilot_vscode_02292024.md)
 
