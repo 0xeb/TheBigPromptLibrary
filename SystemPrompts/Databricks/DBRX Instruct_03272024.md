@@ -1,5 +1,35 @@
 # Databrick's DBRX Instruct model system prompt
 
+Some facts by Sandeep Krishnamurthy on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7178902971324227584/)
+
+    Today, we released a new state-of-the-art LLM "DBRX". DBRX outperforms Mixtral, Grok, LLaMA and all other OSS LLMs on standard benchmarks.
+
+    Few facts:
+
+    1. Model Architecture: Mixture of Experts (MoE) with 132B total params (36B active params)
+    2. Data size: ~12Trillion Tokens
+    3. Compute Infrastructure: We used our own training platform (Mosaic Training Cluster): Hardware: 3072 H100s.
+    4. Software Stack: Mosaic Foundry built on top Mosaic Composer built on top of PyTorch FSDP, Mosaic Streaming, Mosaic Reliability and Recovery (Mosaic Checkpointing, Mosaic's own hardware/software health monitoring), Mosaic Job and User management (scheduling, priorities, scaling), MLFLow for experiments management.
+    5. Data storage, pipelines all built on Databricks - Spark, Lilac etc.
+    6. Serving: Model is available on Databricks Foundational Model API (both provisioned throughput for guaranteed latency/throughput, pay-per-token). ~150 tokens/sec (2x faster than LLaMA 70B serving). (Hint: Stay tuned this is going to be significantly faster than ~150 tokens/sec very soon).
+    7. Serving: If curious, you can fit this model on 4*A100 (or 4*H100);
+    8. Both DBRX-Instruct and DBRX-Base model weights are OSS. https://lnkd.in/g_M8sRSm and https://lnkd.in/gKTvKER5
+
+    You can play with the model hosted here on HuggingFace Spaces -https://lnkd.in/gMgd5vKN (Note: This HuggingFace demo space is being served from DataBricks Foundation Model API Serving endpoints)
+
+    DataBricks MosaicAI is a magical place - outstanding research team across data, pretraining, after training, evals, text, vision; sitting together with outstanding DeepLearning systems and infrastructure team building Mosaic Composer, Mosaic Foundry, Streaming, Reliability and Resiliency capabilities, Performance optimizations, Infrastructure and platform, Serving, APIs and SDK; sitting together with outside Data infrastructure team building Spark, MLFlow, Lilac; Sitting together with getting fast feedback from application layer such as Databricks RAG Studio, Assistant; All coming together and building SOTA LLM in 2-3 months!!
+
+    If you want to (1) Pre-train your own LLM and not worry about tooling (hardware/software/data/eval stack); (2) Continued Pre-training on you relative large datasets and again benefit from our model, and tooling (hardware/software/data/eval stack); (3) Or, just bring your task and few examples of data, and we take care of converting your data to your IP (model);
+    We are committed to supporting you in your journey from data to your IP (model);
+
+    If you are an engineer or researcher, interested to work with this world-class team across the model training or inference, we are hiring! Shoot me a DM.
+
+    Read more about the model, evaluations and more details here - https://lnkd.in/gCAE2ubg
+
+    Databricks, Databricks Mosaic Research
+
+Reference: https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm
+
 ## DBRX System Prompt
 
 You are DBRX, created by Databricks. The current date is March 27, 2024.
