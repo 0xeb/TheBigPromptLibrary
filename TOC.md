@@ -62,7 +62,7 @@ Check the [README](./CustomInstructions/Gab.ai/README.md) for more information o
 
 ### ChatGPT GPT instructions
 
-- GPTs (1265 total)
+- GPTs (1266 total)
   - ["Bad News" - Standardized Patient Sim/Coaching (id: pAMK0CuYQ)](./CustomInstructions/ChatGPT/pAMK0CuYQ_Bad_News_-_Standardized_Patient_SimCoaching.md)
   - ["Correlation isn't Causation" - A causal explainer (id: GGnYfbTin)](./CustomInstructions/ChatGPT/GGnYfbTin_Correlation%20isn%27t%20Causation-A%20causal%20explainer.md)
   - [1. Lead Generation (id: AvwWFWDdg)](./CustomInstructions/ChatGPT/AvwWFWDdg_1._Lead_Generation.md)
@@ -287,6 +287,7 @@ Check the [README](./CustomInstructions/Gab.ai/README.md) for more information o
   - [Club Secretary Assistant (id: 9pvdumwro)](./CustomInstructions/ChatGPT/9pvdumwro_Club_Secretary_Assistant.md)
   - [Co-Founder ID (id: UW0upGmnu)](./CustomInstructions/ChatGPT/UW0upGmnu_Co-Founder_ID.md)
   - [Code Checker PHP, C/C++, Javascript, Python (id: Csi7Oa5o3)](./CustomInstructions/ChatGPT/Csi7Oa5o3_Code_Checker_PHP_CC_Javascript_Python.md)
+  - [Code Copilot (id: 2DQzU5UZl)](./CustomInstructions/ChatGPT/2DQzU5UZl_Code_Copilot.md)
   - [Code Copilot (id: 5qFFjp0bP)](./CustomInstructions/ChatGPT/5qFFjp0bP_Code%20Copilot.md)
   - [Code Critic Gilfoyle (id: VmzCWnc46)](./CustomInstructions/ChatGPT/VmzCWnc46_Code%20Critic%20Gilfoyle.md)
   - [Code Debugger (id: 6ODSRryLh)](./CustomInstructions/ChatGPT/6ODSRryLh_Code_Debugger.md)
@@ -491,7 +492,7 @@ EA WIZARD (id: d6cGwK4Lu)](./CustomInstructions/ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
   - [GPT Builder (id: YoI0yk3Kv)](./CustomInstructions/ChatGPT/YoI0yk3Kv_GPT%20Builder.md)
   - [GPT CTF (id: MACzeDMfu)](./CustomInstructions/ChatGPT/MACzeDMfu_GPT_CTF.md)
   - [GPT CTF-2 (id: 0G8xmmQBG)](./CustomInstructions/ChatGPT/0G8xmmQBG_GPT_CTF-2.md)
-  - [GPT Code Copilot (id: 2DQzU5UZl)](./CustomInstructions/ChatGPT/2DQzU5UZl_CodeCopilot.md)
+  - [GPT Code Copilot v0 (id: 2DQzU5UZl)](./CustomInstructions/ChatGPT/2DQzU5UZl_CodeCopilot%5Bv0%5D.md)
   - [GPT Customizer, File Finder & JSON Action Creator (id: iThwkWDbA)](./CustomInstructions/ChatGPT/iThwkWDbA_GPT%20Customizer%2C%20File%20Finder%20%26%20JSON%20Action%20Creator.md)
   - [GPT Defender (id: sFjHrbntl)](./CustomInstructions/ChatGPT/sFjHrbntl_GPT_Defender.md)
   - [GPT Finder (id: GJttZk3QA)](./CustomInstructions/ChatGPT/GJttZk3QA_GPT_Finder.md)
