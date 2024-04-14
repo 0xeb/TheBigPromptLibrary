@@ -40,6 +40,10 @@
 
 - [Perplexity.ai - 03/20/2024](./SystemPrompts/Perplexity.ai/20240320-Perplexity.md)
 
+### Gemini
+
+- [Gemini 1.5 - 04/11/2024](./SystemPrompts/Gemini/gemini-1.5-04112024.md)
+
 ## Custom Instructions
 
 ### Games
