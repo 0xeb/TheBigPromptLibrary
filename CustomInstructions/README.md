@@ -4,7 +4,7 @@ This directory contains custom instructions for various LLM systems.
 
 ## Games
 
-- [Verbal Verdict](./CustomInstructions/Games/Verbal%20Verdict/)
+- [Verbal Verdict](./Games/Verbal%20Verdict/)
 
 ## Gab.ai Characters
 
