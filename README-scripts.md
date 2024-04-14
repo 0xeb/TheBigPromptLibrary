@@ -15,7 +15,7 @@ idxtool: A GPT indexing and searching tool for the CSP repo
 
 options:
   -h, --help            show this help message and exit
-  --toc [TOC]           Rebuild the table of contents (TOC.md) file
+  --toc [TOC]           Rebuild the table of contents of GPT custom instructions
   --find-gpt FIND_GPT   Find a GPT file by its ID or full ChatGPT URL
   --template TEMPLATE   Creates an empty GPT template file from a ChatGPT URL
   --parse-gptfile PARSE_GPTFILE
@@ -25,7 +25,7 @@ options:
 
 ## Features
 
-- Rebuild TOC: Use `--toc` to rebuild the table of contents (TOC.md) file.
+- Rebuild TOC: Use `--toc` to rebuild the table of contents for GPT custom instructions.
 - Find GPT File: Use `--find-gpt [GPTID or Full ChatGPT URL or a response file with IDs/URLs]` to find a GPT by its ID or URL.
 - Rename GPT: Use `--rename` to rename all the GPTs to include their GPTID as prefix.
 - Create a starter template GPT file: Use `--template [Full ChatGPT URL]` to create a starter template GPT file.
@@ -33,7 +33,7 @@ options:
 
 ## Example
 
-To rebuild the [TOC.md](../TOC.md) file, run:
+To rebuild the custom GPTs files, run:
 
 ```bash
 python idxtool.py --toc
