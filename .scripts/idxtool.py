@@ -14,11 +14,8 @@ from urllib.parse import quote
 import gptparser
 from gptparser import enum_gpts, parse_gpturl, enum_gpt_files, get_prompts_path
 
-TOC_FILENAME = 'TOC.md'
-TOC_GPT_MARKER_LINE = '- GPTs'
-
-def get_toc_file() -> str:
-    return os.path.abspath(os.path.join(os.path.dirname(__file__), '..', TOC_FILENAME))
+TOC_FILENAME = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'CustomInstructions/README.md'))
+TOC_GPT_MARKER_LINE = '## ChatGPT GPT instructions'
 
 def rename_gpts():
     effective_rename = nb_ok = nb_total = 0
@@ -75,31 +72,30 @@ def parse_gpt_file(filename) -> Tuple[bool, str]:
 
 def rebuild_toc(toc_out: str = '') -> Tuple[bool, str]:
     """
-    Rebuilds the table of contents (TOC.md) file by reading all the GPT files in the CustomInstructions/ChatGPT directory.
+    Rebuilds the table of contents GPT custom instructions file by reading all the GPT files in the CustomInstructions/ChatGPT directory.
     """
     if not toc_out:
-        print(f"Rebuilding Table of Contents (TOC.md) in place")
+        print(f"Rebuilding Table of Contents GPT custom instructions in place")
     else:
-        print(f"Rebuilding Table of Contents (TOC.md) to '{toc_out}'")
+        print(f"Rebuilding Table of Contents GPT custom instructions to '{toc_out}'")
 
-    toc_in = get_toc_file()
+    toc_in = TOC_FILENAME
     if not toc_out:
         toc_out = toc_in
 
     if not os.path.exists(toc_in):
         return (False, f"TOC File '{toc_in}' does not exist.")
 
-
     # Read the TOC file and find the marker line for the GPT instructions
     out = []
     marker_found = False
     with open(toc_in, 'r', encoding='utf-8') as file:
         for line in file:
+            out.append(line)
             if line.startswith(TOC_GPT_MARKER_LINE):
+                out.append('\n')
                 marker_found = True
                 break
-            else:
-                out.append(line)
     if not marker_found:
         return (False, f"Could not find the marker '{TOC_GPT_MARKER_LINE}' in '{toc_in}'. Please revert the TOC file and try again.")
 
@@ -114,7 +110,7 @@ def rebuild_toc(toc_out: str = '') -> Tuple[bool, str]:
     nb_ok = sum(1 for ok, gpt in enumerated_gpts if ok and gpt.id())    
 
     # Write the marker line and each GPT entry
-    out.append(f"{TOC_GPT_MARKER_LINE} ({nb_ok} total)\n")
+    out.append(f"There are {nb_ok} GPTs total:\n\n")
 
     nb_ok = nb_total = 0
     gpts = []
@@ -137,9 +133,9 @@ def rebuild_toc(toc_out: str = '') -> Tuple[bool, str]:
     gpts.sort(key=gpts_sorter)
 
     for id, gpt in gpts:
-        file_link = f"./CustomInstructions/ChatGPT/{quote(os.path.basename(gpt.filename))}"
+        file_link = f"./ChatGPT/{quote(os.path.basename(gpt.filename))}"
         version = f" {gpt.get('version')}" if gpt.get('version') else ''
-        out.append(f"  - [{gpt.get('title')}{version} (id: {id.id})]({file_link})\n")
+        out.append(f"- [{gpt.get('title')}{version} (id: {id.id})]({file_link})\n")
 
     ofile.writelines(out)
     ofile.close()
@@ -225,7 +221,7 @@ def find_gptfile(keyword, verbose=True):
 def main():
     parser = argparse.ArgumentParser(description='idxtool: A GPT indexing and searching tool for the CSP repo')
 
-    parser.add_argument('--toc', nargs='?', const='', type=str, help='Rebuild the table of contents (TOC.md) file')
+    parser.add_argument('--toc', nargs='?', const='', type=str, help='Rebuild the table of contents of custom GPTs')
     parser.add_argument('--find-gpt', type=str, help='Find a GPT file by its ID or full ChatGPT URL')
     parser.add_argument('--template', type=str, help='Creates an empty GPT template file from a ChatGPT URL')
     parser.add_argument('--parse-gptfile', type=str, help='Parses a GPT file name')
