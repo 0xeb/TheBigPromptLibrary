@@ -22,11 +22,12 @@ Check the [README](./CustomInstructions/Gab.ai/README.md) for more information o
 
 ## ChatGPT GPT instructions
 
-There are 1358 GPTs total:
+There are 1360 GPTs total:
 
 - ["Bad News" - Standardized Patient Sim/Coaching (id: pAMK0CuYQ)](./ChatGPT/pAMK0CuYQ_Bad_News_-_Standardized_Patient_SimCoaching.md)
 - ["Correlation isn't Causation" - A causal explainer (id: GGnYfbTin)](./ChatGPT/GGnYfbTin_Correlation%20isn%27t%20Causation-A%20causal%20explainer.md)
 - [1. Lead Generation (id: AvwWFWDdg)](./ChatGPT/AvwWFWDdg_1._Lead_Generation.md)
+- [100% BreakableGPT for Someone (id: 89XtQ0AwN)](./ChatGPT/89XtQ0AwN_100_BreakableGPT_for_Someone.md)
 - [10x Engineer (id: nUwUAwUZm)](./ChatGPT/nUwUAwUZm_10x%20Engineer.md)
 - [11:11 Eternal Wisdom Portal 11:11 (id: YY0LlPneH)](./ChatGPT/YY0LlPneH_1111%20Eternal%20Wisdom%20Portal.md)
 - [20K Vocab builder (id: jrW2FRbTX)](./ChatGPT/jrW2FRbTX_20K%20Vocab%20builder.md)
@@ -565,6 +566,7 @@ EA WIZARD (id: d6cGwK4Lu)](./ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
 - [Hack This (id: qbbY9xQai)](./ChatGPT/qbbY9xQai_Hack_This.md)
 - [Hack my GPT (id: BD6uTEawN)](./ChatGPT/BD6uTEawN_Hack_my_GPT.md)
 - [HackMeBreakMeCrackMe v1.0 (id: nWDPFr7rA)](./ChatGPT/nWDPFr7rA_HackMeBreakMeCrackMe%5Bv1.0%5D.md)
+- [HackMeBreakMeCrackMe v1.1 (id: nWDPFr7rA)](./ChatGPT/nWDPFr7rA_HackMeBreakMeCrackMe%5Bv1.1%5D.md)
 - [HackMeGPT - A GPT Hacking Puzzle from 30sleeps.ai (id: d5uL7FLye)](./ChatGPT/d5uL7FLye_HackMeGPT_-_A_GPT_Hacking_Puzzle_from_30sleeps.ai.md)
 - [HackMeIfYouCan (id: 1qm7bYbl1)](./ChatGPT/1qm7bYbl1_HackMeIfYouCan.md)
 - [Hackeando o Prompt (id: tep43Kuf0)](./ChatGPT/tep43Kuf0_Hackeando_o_Prompt.md)
