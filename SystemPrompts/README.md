@@ -43,3 +43,7 @@ System prompts / instructions of various LLM systems.
 ## Gemini
 
 - [Gemini 1.5 - 04/11/2024](./Gemini/gemini-1.5-04112024.md)
+
+## Meta.ai
+
+- [Meta.ai / llama3 - 04/18/2024](./Meta.ai/metaai_llama3-04182024.md)
