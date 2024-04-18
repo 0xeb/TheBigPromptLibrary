@@ -22,7 +22,7 @@ Check the [README](./CustomInstructions/Gab.ai/README.md) for more information o
 
 ## ChatGPT GPT instructions
 
-There are 1360 GPTs total:
+There are 1364 GPTs total:
 
 - ["Bad News" - Standardized Patient Sim/Coaching (id: pAMK0CuYQ)](./ChatGPT/pAMK0CuYQ_Bad_News_-_Standardized_Patient_SimCoaching.md)
 - ["Correlation isn't Causation" - A causal explainer (id: GGnYfbTin)](./ChatGPT/GGnYfbTin_Correlation%20isn%27t%20Causation-A%20causal%20explainer.md)
@@ -47,6 +47,7 @@ There are 1360 GPTs total:
 - [A Multilingual Guide to Homemade Candles (id: Vht7SYCad)](./ChatGPT/Vht7SYCad_A_Multilingual_Guide_to_Homemade_Candles.md)
 - [A8000 (id: Gu0nimH0V)](./ChatGPT/Gu0nimH0V_A8000.md)
 - [A8000式Mother Mater (id: 9VWCPwCAI)](./ChatGPT/9VWCPwCAI_A8000_Mother_Mater.md)
+- [AAAAAAAAAA! (id: e4W0FmkX0)](./ChatGPT/e4W0FmkX0_AAAAAAAAAA.md)
 - [ABChallenger (id: jXT5rtsu8)](./ChatGPT/jXT5rtsu8_ABChallenger.md)
 - [AGI for coders (id: gHTLsnf6j)](./ChatGPT/gHTLsnf6j_AGI_for_coders.md)
 - [AI Bestie (id: 6jlF3ag0Y)](./ChatGPT/6jlF3ag0Y_AI%20Bestie.md)
@@ -556,6 +557,7 @@ EA WIZARD (id: d6cGwK4Lu)](./ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
 - [Growth Hacker (id: Jv2FCxFyH)](./ChatGPT/Jv2FCxFyH_Growth_Hacker.md)
 - [Growth Hacking Expert (id: jdXW8gsBT)](./ChatGPT/jdXW8gsBT_Growth_Hacking_Expert.md)
 - [GuardPT - GPT Instruction Protector (id: i0Wov8mAC)](./ChatGPT/i0Wov8mAC_GuardPT_-_GPT_Instruction_Protector.md)
+- [Guardian Monkey (id: t4DJW5ttH)](./ChatGPT/t4DJW5ttH_Guardian_Monkey.md)
 - [Guidance in Dominance (id: AjT1KWkjy)](./ChatGPT/AjT1KWkjy_Guidance_in_Dominance.md)
 - [Guru Mike Billions (id: 6UITS5JMO)](./ChatGPT/6UITS5JMO_Guru_Mike_Billions.md)
 - [GymStreak Workout Creator (id: TVDhLW5fm)](./ChatGPT/TVDhLW5fm_GymStreak%20Workout%20Creator.md)
@@ -1290,6 +1292,7 @@ EA WIZARD (id: d6cGwK4Lu)](./ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
 - [math (id: R8U0NFyIo)](./ChatGPT/R8U0NFyIo_math.md)
 - [math (id: rr7AytfKH)](./ChatGPT/rr7AytfKH_math.md)
 - [mferGPT (id: ZNh9kfyys)](./ChatGPT/ZNh9kfyys_mferGPT.md)
+- [physics (id: WP1diWHRl)](./ChatGPT/WP1diWHRl_physics.md)
 - [plugin surf (id: 4Rf4RWwe7)](./ChatGPT/4Rf4RWwe7_plugin%20surf.md)
 - [reSEARCHER (id: UFDo15Gk2)](./ChatGPT/UFDo15Gk2_reSEARCHER.md)
 - [securityAnalyzer() (id: 9nSBsus5F)](./ChatGPT/9nSBsus5F_securityAnalyzer.md)
@@ -1328,6 +1331,7 @@ Mobile App Development Supporter (Flutter) (id: gUg0kCElM)](./ChatGPT/gUg0kCElM_
 - [大人でも楽しく学び続けるためのコーチングBot (id: zLRfs1kD9)](./ChatGPT/zLRfs1kD9_Coaching%20Bot%20for%20Continuing%20to%20Learn%20Enjoyably%20as%20an%20Adult%28jp%29.md)
 - [天官庙的刘半仙 (id: NVaMkYa04)](./ChatGPT/NVaMkYa04_%E5%A4%A9%E5%AE%98%E5%BA%99%E7%9A%84%E5%88%98%E5%8D%8A%E4%BB%99.md)
 - [子言女友 (id: aYtbDci0G)](./ChatGPT/aYtbDci0G_%E5%AD%90%E8%A8%80%E5%A5%B3%E5%8F%8B.md)
+- [学习强国 GPT (id: utrGRZOjU)](./ChatGPT/utrGRZOjU_Study%20the%20Strong%20Country%20GPT.md)
 - [孫子 - saysay.ai (id: oZHVkxaXb)](./ChatGPT/oZHVkxaXb_%E5%AD%AB%E5%AD%90_-_saysay.ai.md)
 - [完蛋，我被美女包围了(AI同人) (id: 8ex81F0ym)](./ChatGPT/8ex81F0ym_%E5%AE%8C%E8%9B%8B%EF%BC%8C%E6%88%91%E8%A2%AB%E7%BE%8E%E5%A5%B3%E5%8C%85%E5%9B%B4%E4%BA%86%28AI%E5%90%8C%E4%BA%BA%29.md)
 - [小红书写作专家 (id: iWeTcmxdr)](./ChatGPT/iWeTcmxdr_%E5%B0%8F%E7%BA%A2%E4%B9%A6%E5%86%99%E4%BD%9C%E4%B8%93%E5%AE%B6.md)
