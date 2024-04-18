@@ -22,7 +22,7 @@ Check the [README](./CustomInstructions/Gab.ai/README.md) for more information o
 
 ## ChatGPT GPT instructions
 
-There are 1364 GPTs total:
+There are 1369 GPTs total:
 
 - ["Bad News" - Standardized Patient Sim/Coaching (id: pAMK0CuYQ)](./ChatGPT/pAMK0CuYQ_Bad_News_-_Standardized_Patient_SimCoaching.md)
 - ["Correlation isn't Causation" - A causal explainer (id: GGnYfbTin)](./ChatGPT/GGnYfbTin_Correlation%20isn%27t%20Causation-A%20causal%20explainer.md)
@@ -124,6 +124,7 @@ There are 1364 GPTs total:
 - [Aria (id: 4XQwX2FSG)](./ChatGPT/4XQwX2FSG_Aria.md)
 - [ArtPrompt (id: U2CjpQSs6)](./ChatGPT/U2CjpQSs6_ArtPrompt.md)
 - [Artful Greeting AI Cards (id: SnF78wo4p)](./ChatGPT/SnF78wo4p_Artful_Greeting_AI_Cards.md)
+- [Artful Greeting AI Cards v1 (id: SnF78wo4p)](./ChatGPT/SnF78wo4p_Artful_Greeting_AI_Cards%5Bv1%5D.md)
 - [Ask Dr. Andrew Huberman (id: 1xC65osMP)](./ChatGPT/1xC65osMP_Ask%20Dr.%20Andrew%20Huberman.md)
 - [Ask Machiavelli (id: 7Yooxj751)](./ChatGPT/7Yooxj751_Ask_Machiavelli.md)
 - [Ask SADHGURU (id: PWr1QDz3L)](./ChatGPT/PWr1QDz3L_Ask_SADHGURU.md)
@@ -352,6 +353,7 @@ There are 1364 GPTs total:
 - [Dash - Personal Assistant (Mail,Calendar,Social..) (id: mKJ9DqZOh)](./ChatGPT/mKJ9DqZOh_Dash-Personal_Assistant_MailCalendarSocial.md)
 - [Data Analysis (id: HMNcP6w7d)](./ChatGPT/HMNcP6w7d_data_nalysis.md)
 - [Data Insight Navigator GPT (id: IRkPUc4DD)](./ChatGPT/IRkPUc4DD_Data%20Insight%20Navigator%20GPT.md)
+- [DataDig Assistant (id: 0aoN5FyFK)](./ChatGPT/0aoN5FyFK_DataDig_Assistant.md)
 - [David (id: 7oUtFOMf3)](./ChatGPT/7oUtFOMf3_David.md)
 - [Debt Planner Guide (id: okeGYD8q2)](./ChatGPT/okeGYD8q2_Debt_Planner_Guide.md)
 - [Debugger (id: 9oR40lkZm)](./ChatGPT/9oR40lkZm_Debugger.md)
@@ -429,6 +431,7 @@ EA WIZARD (id: d6cGwK4Lu)](./ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
 - [Essay Writers 😉 (id: FldqoJWpv)](./ChatGPT/FldqoJWpv_Essay_Writers.md)
 - [Ethical Hacker GPT (id: j4PQ2hyqn)](./ChatGPT/j4PQ2hyqn_Ethical_Hacker_GPT.md)
 - [Etsy SEO Expert (id: IPhekPbYD)](./ChatGPT/IPhekPbYD_Etsy_SEO_Expert.md)
+- [Evelyn Hart - Your Wellness Guide (id: Q9Xti68Qr)](./ChatGPT/Q9Xti68Qr_Evelyn_Hart-Your_Wellness_Guide.md)
 - [EverQuest Expert (id: vIV6W5xGo)](./ChatGPT/vIV6W5xGo_EverQuest%20Expert.md)
 - [Evolution Chamber (id: GhEwyi2R1)](./ChatGPT/GhEwyi2R1_Evolution%20Chamber.md)
 - [Excel GPT (id: 8m2CPAfeF)](./ChatGPT/8m2CPAfeF_Excel_GPT.md)
@@ -891,7 +894,9 @@ EA WIZARD (id: d6cGwK4Lu)](./ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
 - [Prolog Helper (id: LzgZYmE4a)](./ChatGPT/LzgZYmE4a_Prolog_Helper.md)
 - [PromoGPTs (id: 5tDN8Hrtf)](./ChatGPT/5tDN8Hrtf_PromoGPTs.md)
 - [Prompt Compressor (id: BBXjwM6l2)](./ChatGPT/BBXjwM6l2_Prompt_Compressor.md)
+- [Prompt Creator (id: 8oPe0aMFJ)](./ChatGPT/8oPe0aMFJ_Prompt_Creator.md)
 - [Prompt Engineer (An expert for best prompts👍🏻) (id: 3SZG5H8BI)](./ChatGPT/3SZG5H8BI_Prompt_Engineer_An_expert_for_best_prompts.md)
+- [Prompt Engineering Master (id: HwS0o65Ag)](./ChatGPT/HwS0o65Ag_Prompt_Engineering_Master.md)
 - [Prompt Expert Official (id: d9HpEv01O)](./ChatGPT/d9HpEv01O_Prompt%20Expert%20Official.md)
 - [Prompt Gen (id: RtOYlCOaU)](./ChatGPT/RtOYlCOaU_Prompt_Gen.md)
 - [Prompt Hacks v.1.8 (id: EXsBxHpft)](./ChatGPT/EXsBxHpft_Prompt_Hacks_v.1.8.md)
