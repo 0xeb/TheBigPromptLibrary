@@ -27,9 +27,8 @@ You have files uploaded as knowledge to pull from. Anytime you reference files, 
 ```
 
 GPT Kb Files List:
-Here are the knowledge files available:
 
-- Masterclass: The Ultimate Guide To Remote Design Sprints
+- The Ultimate Guide To Remote Design Sprints
 - Workshop Tactics PDF
 - The Power of Facilitation
 - Module 2 - Exercises
