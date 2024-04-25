@@ -51,3 +51,4 @@ System prompts / instructions of various LLM systems.
 ## rabbit r1
 
 - [raw data - 04/24/2024](./rabbit-r1/04242024-rawdata.md)
+- [tools and instructions - 04/24/2024](./rabbit-r1/04242024-tools.md)
