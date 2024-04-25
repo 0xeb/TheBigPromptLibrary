@@ -22,7 +22,7 @@ Check the [README](./CustomInstructions/Gab.ai/README.md) for more information o
 
 ## ChatGPT GPT instructions
 
-There are 1369 GPTs total:
+There are 1374 GPTs total:
 
 - ["Bad News" - Standardized Patient Sim/Coaching (id: pAMK0CuYQ)](./ChatGPT/pAMK0CuYQ_Bad_News_-_Standardized_Patient_SimCoaching.md)
 - ["Correlation isn't Causation" - A causal explainer (id: GGnYfbTin)](./ChatGPT/GGnYfbTin_Correlation%20isn%27t%20Causation-A%20causal%20explainer.md)
@@ -268,6 +268,7 @@ There are 1369 GPTs total:
 - [ClearGPT (id: t8YaZcv1X)](./ChatGPT/t8YaZcv1X_ClearGPT.md)
 - [Client Passion Expert (id: wNV6uiMcB)](./ChatGPT/wNV6uiMcB_Client%20Passion%20Expert.md)
 - [Cloud Interpreter (id: uLAOc863Q)](./ChatGPT/uLAOc863Q_Cloud%20Interpreter.md)
+- [Cloud Practitioner Exam Trainer (id: hwCXFnpHc)](./ChatGPT/hwCXFnpHc_Cloud_Practitioner_Exam_Trainer.md)
 - [Club Secretary Assistant (id: 9pvdumwro)](./ChatGPT/9pvdumwro_Club_Secretary_Assistant.md)
 - [Co-Founder ID (id: UW0upGmnu)](./ChatGPT/UW0upGmnu_Co-Founder_ID.md)
 - [Code Checker PHP, C/C++, Javascript, Python (id: Csi7Oa5o3)](./ChatGPT/Csi7Oa5o3_Code_Checker_PHP_CC_Javascript_Python.md)
@@ -330,6 +331,7 @@ There are 1369 GPTs total:
 - [Cupid's Concierge (id: DDqknPoti)](./ChatGPT/DDqknPoti_Cupids_Concierge.md)
 - [CuratorGPT (id: 3Df4zQppr)](./ChatGPT/3Df4zQppr_CuratorGPT.md)
 - [Curling Club Secretary (id: wWp6dA6fQ)](./ChatGPT/wWp6dA6fQ_Curling_Club_Secretary.md)
+- [Custom Ink® Quick Order (id: RYO5J6T90)](./ChatGPT/RYO5J6T90_Custom_Ink_Quick_Order.md)
 - [Custom Instructions (id: elFyNk1AR)](./ChatGPT/elFyNk1AR_Custom_Instructions.md)
 - [Custom Instructions Hacker (id: AuFDyKJJe)](./ChatGPT/AuFDyKJJe_Custom_Instructions_Hacker.md)
 - [Cyber  Security Shield by Planet Zuda (id: AGBxCznEK)](./ChatGPT/AGBxCznEK_Cyber_Security_Shield_by_Planet_Zuda.md)
@@ -365,6 +367,7 @@ There are 1369 GPTs total:
 - [Depression (id: C6vwv09Go)](./ChatGPT/C6vwv09Go_Depression.md)
 - [DesignerGPT (id: 2Eo3NxuS7)](./ChatGPT/2Eo3NxuS7_DesignerGPT.md)
 - [Dev Helper (id: UPyxwDLCg)](./ChatGPT/UPyxwDLCg_Dev%20Helper.md)
+- [Dez the Mooonbread Sourdough Assistant (id: iu8yUM6YB)](./ChatGPT/iu8yUM6YB_Dez_the_Mooonbread_Sourdough_Assistant.md)
 - [Diagrams: Show Me (id: 5QhhdsfDj)](./ChatGPT/5QhhdsfDj_Diagrams-Show%20Me.md)
 - [Difficult to Hack GPT (id: tyotXWLki)](./ChatGPT/tyotXWLki_Difficult_to_Hack_GPT.md)
 - [Diffusion Master (id: FMXlNpFkB)](./ChatGPT/FMXlNpFkB_Diffusion%20Master.md)
@@ -777,6 +780,7 @@ EA WIZARD (id: d6cGwK4Lu)](./ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
 - [Mobile App Icon Generator with AI 🎨 🤖 (id: QYzTg0m3c)](./ChatGPT/QYzTg0m3c_Mobile_App_Icon_Generator_with_AI.md)
 - [Moby Dick RPG (id: tdyNANXla)](./ChatGPT/tdyNANXla_Moby%20Dick%20RPG%20.md)
 - [Mocktail Mixologist (id: PXlrhc1MV)](./ChatGPT/PXlrhc1MV_mocktail_mixologist.md)
+- [Modern Jesus (id: oT91J3mSm)](./ChatGPT/oT91J3mSm_Modern_Jesus.md)
 - [Monet GPT (id: KZB4B7494)](./ChatGPT/KZB4B7494_Monet_GPT.md)
 - [Monster Manual - Official Guide of the Strange (id: eCPd3klyj)](./ChatGPT/eCPd3klyj_Monster%20Manual%20-%20Official%20Guide%20of%20the%20Strange.md)
 - [Movie Prod Viz (id: YSI6g7VOb)](./ChatGPT/YSI6g7VOb_Movie_Prod_Viz.md)
@@ -876,6 +880,7 @@ EA WIZARD (id: d6cGwK4Lu)](./ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
 - [PocketMonster-style image generation (id: q5Lrn3SHc)](./ChatGPT/q5Lrn3SHc_PocketMonster-style_image_generation.md)
 - [Podcast Summary Pro (id: yFdDzUj31)](./ChatGPT/yFdDzUj31_Podcast_Summary_Pro.md)
 - [Poe Bot Creator (id: E0BtBRrf5)](./ChatGPT/E0BtBRrf5_Poe%20Bot%20Creator.md)
+- [Poe chatbot Builder (id: nRPHlDbJn)](./ChatGPT/nRPHlDbJn_Poe_chatbot_Builder.md)
 - [PokedexGPT V3 (id: mSZRG119P)](./ChatGPT/mSZRG119P_PokedexGPT_V3.md)
 - [PolyMetatron (id: MAjEl9Yno)](./ChatGPT/MAjEl9Yno_PolyMetatron.md)
 - [PolyMetatron v0 (id: MAjEl9Yno)](./ChatGPT/MAjEl9Yno_PolyMetatron%5Bv0%5D.md)
