@@ -47,3 +47,7 @@ System prompts / instructions of various LLM systems.
 ## Meta.ai
 
 - [Meta.ai / llama3 - 04/18/2024](./Meta.ai/metaai_llama3-04182024.md)
+
+## rabbit r1
+
+- [raw data - 04/24/2024](./rabbit-r1/04242024-rawdata.md)
