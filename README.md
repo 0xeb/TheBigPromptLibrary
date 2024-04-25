@@ -31,6 +31,7 @@ Feel free to contribute system prompts or custom instructions to any LLM system.
 
 ## Learning resources and sites
 
+- <https://github.com/LouisShark/chatgpt_system_prompt/> where TBPL was originally forked from
 - <https://embracethered.com/> | [ASCII Smuggler](https://embracethered.com/blog/ascii-smuggler.html)
 - <https://www.reddit.com/r/ChatGPTJailbreak/>
 - <https://github.com/terminalcommandnewsletter/everything-chatgpt>
@@ -38,7 +39,6 @@ Feel free to contribute system prompts or custom instructions to any LLM system.
 - <http://jailbreakchat.com>
 - <http://crackgpts.com>
 - <https://github.com/0xk1h0/ChatGPT_DAN>
-- <https://github.com/LouisShark/chatgpt_system_prompt/> where TBPL was originally forked from
 - <https://learnprompting.org/docs/category/-prompt-hacking>
 - <https://github.com/MiesnerJacob/learn-prompting/blob/main/08.%F0%9F%94%93%20Prompt%20Hacking.ipynb>
 - <https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516>
