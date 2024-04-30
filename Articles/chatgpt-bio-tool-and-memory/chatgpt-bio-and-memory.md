@@ -84,7 +84,7 @@ To remove memories, just ask it to forget or use the user interface:
 
 ![Delete](./personalization-memory-list.png)
 
-(Just click the "recycle bin" icon)
+(Just click the "trash bin" icon)
 
 3. Deleting all memories
 
