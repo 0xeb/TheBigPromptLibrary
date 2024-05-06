@@ -18,9 +18,10 @@ System prompts / instructions of various LLM systems.
 - [gpt_voice](./ChatGPT/gpt_voice.md)
 - [GPT Builder](./ChatGPT/gpt_builder.md)
 
-## Humane
+## [Hume.ai](https://twitter.com/hume_ai)
 
-- [Ai Pin - 05/04/2024](./Humane/05042024-system-prompt.md)
+- [System prompt - 05/04/2024](./Hume.ai/05042024-system-prompt.md)
+- [System prompt - 05/05/2024](./Hume.ai/05052024-system-prompt.md)
 
 ## Copilot
 
