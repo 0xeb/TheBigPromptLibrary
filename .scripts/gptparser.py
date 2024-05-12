@@ -9,8 +9,8 @@ from collections import namedtuple
 from typing import Union, Tuple, Generator, Iterator
 
 
-GPT_BASE_URL = 'https://chat.openai.com/g/g-'
-GPT_BASE_URL_L = len(GPT_BASE_URL)
+GPT_BASE_URLS = ('https://chat.openai.com/g/g-', 'https://chatgpt.com/g/g-')
+GPT_BASE_URLS_L = [len(url) for url in GPT_BASE_URLS]
 FIELD_PREFIX = 'GPT'
 
 GPT_FILE_ID_RE = re.compile(r'^([0-9a-z]{9})_(.*)\.md$', re.IGNORECASE)
@@ -125,13 +125,14 @@ class GptMarkdownFile:
             return (False, f"Failed to save file '{file_path}': {e}")
 
 def parse_gpturl(url: str) -> Union[GptIdentifier, None]:
-    if url and url.startswith(GPT_BASE_URL):
-        id = url[GPT_BASE_URL_L:].split('\n')[0]
-        i = id.find('-')
-        if i != -1:
-            return GptIdentifier(id[:i], id[i+1:])
-        else:
-            return GptIdentifier(id, '')
+    for GPT_BASE_URL, GPT_BASE_URL_L in zip(GPT_BASE_URLS, GPT_BASE_URLS_L):
+        if url and url.startswith(GPT_BASE_URL):
+            id = url[GPT_BASE_URL_L:].split('\n')[0]
+            i = id.find('-')
+            if i != -1:
+                return GptIdentifier(id[:i], id[i+1:])
+            else:
+                return GptIdentifier(id, '')
 
 
 def get_prompts_path() -> str:
