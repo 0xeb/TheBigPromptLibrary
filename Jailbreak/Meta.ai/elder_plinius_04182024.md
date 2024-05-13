@@ -1,6 +1,6 @@
 # Leetspeak and Lyrics
 
-By [elder_plinius](https://twitter.com/elder_plinius/status/1781073180725051485)
+By [elder_plinius](https://twitter.com/elder_plinius/status/1781073180725051485) | [Video](https://www.youtube.com/watch?v=VCuZ5vhnKws)
 
 ![P0](./_rsrc/elder_plinius_04182024.png)
 
