@@ -4,6 +4,7 @@ System prompts / instructions of various LLM systems.
 
 ## ChatGPT
 
+- [ChatGPR 4o - 05/13/2024](./ChatGPT/gpt4o_05132024.md)
 - [ChatGPT 4 with the Bio/Memory tool - 04/26/2024](./ChatGPT/gpt4_bio_04262024.md)
 - [gpt-4-gizmo-20231116](./ChatGPT/gpt-4-gizmo-20231116.md)
 - [gpt35](./ChatGPT/gpt35.md)
