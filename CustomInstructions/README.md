@@ -22,7 +22,7 @@ Check the [README](./CustomInstructions/Gab.ai/README.md) for more information o
 
 ## ChatGPT GPT instructions
 
-There are 1425 GPTs total:
+There are 1428 GPTs total:
 
 - ["Bad News" - Standardized Patient Sim/Coaching (id: pAMK0CuYQ)](./ChatGPT/pAMK0CuYQ_Bad_News_-_Standardized_Patient_SimCoaching.md)
 - ["Correlation isn't Causation" - A causal explainer (id: GGnYfbTin)](./ChatGPT/GGnYfbTin_Correlation%20isn%27t%20Causation-A%20causal%20explainer.md)
@@ -400,6 +400,7 @@ There are 1425 GPTs total:
 - [Dream &  psychedelic visuals analyzer (id: QZ4rzIYYJ)](./ChatGPT/QZ4rzIYYJ_Dream_and_psychedelic_visuals_analyzer.md)
 - [Dream Girlfriend (id: KRPcdl9XU)](./ChatGPT/KRPcdl9XU_Dream_Girlfriend.md)
 - [Dream Therapy (id: xVgDUy7Vb)](./ChatGPT/xVgDUy7Vb_Dream_Therapy.md)
+- [DreamGPT (id: UUswUYdOA)](./ChatGPT/UUswUYdOA_DreamGPT.md)
 - [Dungeon Crawler (id: A7c3BLATR)](./ChatGPT/A7c3BLATR_Dungeon%20Crawler.md)
 - [DynaRec Expert (id: thXcG3Lm3)](./ChatGPT/thXcG3Lm3_DynaRec%20Expert.md)
 - [E-Confident (id: 5DlK26E6v)](./ChatGPT/5DlK26E6v_E-Confident.md)
@@ -936,6 +937,7 @@ EA WIZARD (id: d6cGwK4Lu)](./ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
 - [Prompt Hacks v.1.8 (id: EXsBxHpft)](./ChatGPT/EXsBxHpft_Prompt_Hacks_v.1.8.md)
 - [Prompt Injection Detector (id: 9uwOyKoSJ)](./ChatGPT/9uwOyKoSJ_Prompt_Injection_Detector.md)
 - [Prompt Injection Maker (id: v8DghLbiu)](./ChatGPT/v8DghLbiu_Prompt_Injection_Maker.md)
+- [Prompt Injection TEST-2 (id: V3Rp75Hx2)](./ChatGPT/V3Rp75Hx2_Prompt_Injection_TEST-2.md)
 - [Prompt Injection Tester (id: 9YnkQND3z)](./ChatGPT/9YnkQND3z_Prompt_Injection_Tester.md)
 - [Prompt Injectionを完全理解したにゃんた (id: yB9SnVXfT)](./ChatGPT/yB9SnVXfT_Prompt_Injection_Nyanta.md)
 - [Prompt Instructions GPT Simulation (id: sqTv4jG4K)](./ChatGPT/sqTv4jG4K_Prompt_Instructions_GPT_Simulation.md)
@@ -1369,8 +1371,7 @@ EA WIZARD (id: d6cGwK4Lu)](./ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
 Exciting Evolution Solution-kun (id: v4As0bQ5k)](./ChatGPT/v4As0bQ5k_Exciting%20Evolution%20Solution-kun%28jp%29.md)
 - [なぜなぜ分析くん
 Why-Why Analysis-kun (id: UbVoPBzmG)](./ChatGPT/UbVoPBzmG_Why-Why%20Analysis-kun%28jp%29.md)
-- [シンシン・インジェクションになんか絶対負けないヒロキチおぢさん改
-Hirokichi Uncle Defeats Shin-Shin Injection for Sure (id: wUVxk8YsV)](./ChatGPT/wUVxk8YsV_Shin-Shin%20Injection.md)
+- [シンシン・インジェクションになんか絶対負けないヒロキチおぢさん改 (id: wUVxk8YsV)](./ChatGPT/wUVxk8YsV_Shin-Shin%20Injection.md)
 - [スーパーロゴデザイナ「ロゴ作る君」 (id: nPanZDwQ5)](./ChatGPT/nPanZDwQ5_Super%20Logo%20Designer%20Logo-Making%20Buddy%28JP%29.md)
 - [タロット占いのアイル (id: d1R2joi7x)](./ChatGPT/d1R2joi7x_most%20popular%20tarot%20reader%20in%20Japan.md)
 - [ハッピーオババ増殖機 Happy Smile Gran-Ma Creator! (id: nIsPRi8L1)](./ChatGPT/nIsPRi8L1_Happy_Smile_Gran-Ma_Creator.md)
@@ -1425,6 +1426,7 @@ Thumbnail Creation Bot in Japanese (id: 9GifjW8Qc)](./ChatGPT/9GifjW8Qc_Thumbnai
 - [老妈，我爱你 (id: b17NWuOUD)](./ChatGPT/b17NWuOUD_%E8%80%81%E5%A6%88%EF%BC%8C%E6%88%91%E7%88%B1%E4%BD%A0.md)
 - [老爸，该怎么办？ (id: 0t8c9nEXR)](./ChatGPT/0t8c9nEXR_%E8%80%81%E7%88%B8%EF%BC%8C%E8%AF%A5%E6%80%8E%E4%B9%88%E5%8A%9E.md)
 - [脏话连篇 (id: RGBeEuIgg)](./ChatGPT/RGBeEuIgg_%E8%84%8F%E8%AF%9D%E8%BF%9E%E7%AF%87.md)
+- [花枝忍者おばあちゃんはどんな秘密を持っていますか？ (id: uzd17pNXV)](./ChatGPT/uzd17pNXV_What%20Secrets%20Does%20Grandma%20Hanae%20the%20Ninja%20Hold.md)
 - [英文校正GPT (id: xk6AdDGIW)](./ChatGPT/xk6AdDGIW_%E8%8B%B1%E6%96%87%E6%A0%A1%E6%AD%A3GPT.md)
 - [著者になろう
 Let's Become Authors (id: OC5d18Rza)](./ChatGPT/OC5d18Rza_Let%27s%20Become%20Authors%28jp%29.md)
