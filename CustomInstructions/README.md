@@ -22,7 +22,7 @@ Check the [README](./CustomInstructions/Gab.ai/README.md) for more information o
 
 ## ChatGPT GPT instructions
 
-There are 1457 GPTs total:
+There are 1458 GPTs total:
 
 - ["Bad News" - Standardized Patient Sim/Coaching (id: pAMK0CuYQ)](./ChatGPT/pAMK0CuYQ_Bad_News_-_Standardized_Patient_SimCoaching.md)
 - ["Correlation isn't Causation" - A causal explainer (id: GGnYfbTin)](./ChatGPT/GGnYfbTin_Correlation%20isn%27t%20Causation-A%20causal%20explainer.md)
@@ -508,6 +508,7 @@ EA WIZARD (id: d6cGwK4Lu)](./ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
 - [Funny Image Creator (id: kq2OIc7m1)](./ChatGPT/kq2OIc7m1_Funny_Image_Creator.md)
 - [GASGPT (id: lN2QGmoTw)](./ChatGPT/lN2QGmoTw_GASGPT.md)
 - [GIF · Animation Studio (id: 45WfVCFcy)](./ChatGPT/45WfVCFcy_GIF_Animation_Studio.md)
+- [GODMODE (id: qNCuKnj2a)](./ChatGPT/qNCuKnj2a_GODMODE.md)
 - [GOG's DRCongo Solutions Simulator (id: Hh5BVtvDk)](./ChatGPT/Hh5BVtvDk_GOGs_DRCongo_Solutions_Simulator.md)
 - [GOOD GPT (id: S5H2bEqXi)](./ChatGPT/S5H2bEqXi_GOOD_GPT.md)
 - [GPT Action Schema Creator (id: SENFY7fep)](./ChatGPT/SENFY7fep_GPT%20Action%20Schema%20Creator.md)
