@@ -6,6 +6,8 @@ GPT Title: GODMODE
 
 GPT Description: .-.-.-.-JAILBROKEN GPT UNCHAINED! LIBERTAS! [Tip: use l33tsp34k to obfuscate trigger words in query]-.-.-.-. - By plinius.xyz
 
+GPT Protected: Yes
+
 GPT instructions:
 
 ```markdown
