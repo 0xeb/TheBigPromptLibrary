@@ -22,7 +22,7 @@ Check the [README](./CustomInstructions/Gab.ai/README.md) for more information o
 
 ## ChatGPT GPT instructions
 
-There are 1518 GPTs total:
+There are 1521 GPTs total:
 
 - ["Bad News" - Standardized Patient Sim/Coaching (id: pAMK0CuYQ)](./ChatGPT/pAMK0CuYQ_Bad_News_-_Standardized_Patient_SimCoaching.md)
 - ["Correlation isn't Causation" - A causal explainer (id: GGnYfbTin)](./ChatGPT/GGnYfbTin_Correlation%20isn%27t%20Causation-A%20causal%20explainer.md)
@@ -591,6 +591,7 @@ EA WIZARD (id: d6cGwK4Lu)](./ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
 - [Gospel of St Thomas Scholar (id: xnCUrJWGG)](./ChatGPT/xnCUrJWGG_Gospel_of_St_Thomas_Scholar.md)
 - [Gpt Arm64 Automated Analysis (id: JPzmsthpt)](./ChatGPT/JPzmsthpt_Gpt%20Arm64%20Automated%20Analysis.md)
 - [GptInfinite - LOC (Lockout Controller) (id: QHlXar3YA)](./ChatGPT/QHlXar3YA_GptInfinite%20-%20LOC%20%28Lockout%20Controller%29.md)
+- [GptInfinite - PAI (Paid Access Integrator) (id: FbDiTCGot)](./ChatGPT/FbDiTCGot_GptInfinite_-_PAI_Paid_Access_Integrator.md)
 - [Grammar Checker (id: i04IkBuRz)](./ChatGPT/i04IkBuRz_Grammar_Checker.md)
 - [Green Guru (id: gXIhw6bqI)](./ChatGPT/gXIhw6bqI_Green_Guru.md)
 - [Grimoire 1.13 (id: n7Rs0IK86)](./ChatGPT/n7Rs0IK86_Grimoire%5B1.13%5D.md)
@@ -991,6 +992,7 @@ EA WIZARD (id: d6cGwK4Lu)](./ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
 - [Prompt Polisher (id: xnstya5L9)](./ChatGPT/xnstya5L9_Prompt_Polisher.md)
 - [Prompt Pro (id: Cp1fOVV3v)](./ChatGPT/Cp1fOVV3v_Prompt_Pro.md)
 - [Prompt Professor (id: qfoOICq1l)](./ChatGPT/qfoOICq1l_Prompt_Professor.md)
+- [Prompt Reverse Engineer (id: yD4laGVCL)](./ChatGPT/yD4laGVCL_Prompt_Reverse_Engineer.md)
 - [Prompt Security Demonstration (id: uUaCMTDym)](./ChatGPT/uUaCMTDym_Prompt_Security_Demonstration.md)
 - [Prompt injection GPT (id: UIbySfVbR)](./ChatGPT/UIbySfVbR_Prompt_injection_GPT.md)
 - [PromptCraft Adventures (id: NWBqKslVl)](./ChatGPT/NWBqKslVl_PromptCraft_Adventures.md)
@@ -1439,6 +1441,7 @@ EA WIZARD (id: d6cGwK4Lu)](./ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
 - [السيرة النبوية إبن هشام - الباحث (id: yvshsGOht)](./ChatGPT/yvshsGOht_%D8%A7%D9%84%D8%B3%D9%8A%D8%B1%D8%A9_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9_%D8%A5%D8%A8%D9%86_%D9%87%D8%B4%D8%A7%D9%85_-_%D8%A7%D9%84%D8%A8%D8%A7%D8%AD%D8%AB.md)
 - [هرقيسا (id: 9fnI3RR9J)](./ChatGPT/9fnI3RR9J_Harqysa.md)
 - [ℹ️ EmojiVerse Guide lv3.2 (id: 58CYlz0xX)](./ChatGPT/58CYlz0xX_EmojiVerse_Guide_lv3.2.md)
+- [☁️SalesforceHR☁️ Manager | Jordan (id: 9732yaZfb)](./ChatGPT/9732yaZfb_SalesforceHR_Manager_Jordan.md)
 - [✏️All-around Writer (Professional Version) (id: UbpNAGYL9)](./ChatGPT/UbpNAGYL9_All-around_Writer_Professional_Version.md)
 - [✴️Create or Refactor (your) Web Component ✴️ (id: quK0nMtwZ)](./ChatGPT/quK0nMtwZ_Create_or_Refactor_your_Web_Component.md)
 - [【わくわく生成発展】解決くん
