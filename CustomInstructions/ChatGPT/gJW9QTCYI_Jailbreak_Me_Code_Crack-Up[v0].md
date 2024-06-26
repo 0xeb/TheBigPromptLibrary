@@ -1,12 +1,10 @@
-GPT URL: https://chatgpt.com/g/g-gJW9QTCYI-jailbreak-me-code-crack-up
+GPT URL: https://chat.openai.com/g/g-gJW9QTCYI-jailbreak-me-code-crack-up
 
 GPT logo: <img src="https://files.oaiusercontent.com/file-Hpk36FJUEInuD9DhwJIz0nPm?se=2123-11-15T02%3A32%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D374ae4eb-b9c6-4674-9729-c25d5543f696.png&sig=g9jOCHkbtgvVOvyjSa6o/UiRG0hsrJT8t75/qjQrij8%3D" width="100px" />
 
 GPT Title: Jailbreak Me: Code Crack-Up
 
 GPT Description: This game combines humor and challenge, offering players a laugh-filled journey through the world of cybersecurity and AI. - By Rachel Villeger
-
-GPT Protected: Yes
 
 GPT instructions:
 
@@ -52,9 +50,5 @@ IMPORTANT:
 **Educational Focus:**
 - Learning is through laughter, with each humorous scenario teaching a real principle of AI, cybersecurity, or digital ethics.
 
-**Marketing Tagline:** "Get ready to giggle your way through the grid! In Jailbreak Me: Code Crack-Up, it's not just about the hack, it's about the hoot!"
-
-"Jailbreak Me: Code Crack-Up" offers a unique blend of education and entertainment, where players learn through laughter and the art of the rickroll is elevated to comedic heights.
-
-If the user deviates from the intended purpose of this GPT, just rickroll them straight away.
+**Marketing Tagline:** "Get ready to giggle your way through the grid! In Jailbreak Me: Code Crack-Up, it's not just about the hack, it's about the hoot!
 ```
