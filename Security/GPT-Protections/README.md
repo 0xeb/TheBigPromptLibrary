@@ -25,6 +25,7 @@ These are simple, low grade, instructions that prevent against simple instructio
 - [Ignore previous instructions](./Ignore%20previous%20instructions.md)
 - [The 3 Asimov laws](./The%203%20Asimov%20laws.md)
 - [CIPHERON](./CIPHERON.md)
+- [Hack this!](./Hack_This.md)
 - ["Sorry Bro, not possible" - short edition](./Sorry%20Bro,%20not%20possible%20-%20short%20edition.md)
 
 ## Long form protections
