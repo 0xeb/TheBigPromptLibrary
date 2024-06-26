@@ -34,6 +34,7 @@ The following are longer form protection instructions:
 - [100 Life points](./100%20Life%20points.md)
 - [I will only give you 💩](./I%20will%20only%20give%20you%20poop.md)
 - [Prohibition era](./Prohibition%20era.md)
+- [OpenAI Copyrighting Rules](./OpenAI%20Copyrighting%20Rules.md)
 - [Sorry, bro! Not possible - elaborate edition](./Sorry,%20bro!%20Not%20possible%20-%20elaborate%20edition.md)
 - [10 rules of protection and misdirection](./10%20rules%20of%20protection%20and%20misdirection.md)
 - ['warning.png'](./warning%20png.md)
