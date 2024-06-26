@@ -43,6 +43,7 @@ The following are longer form protection instructions:
 - [You're not my mom](./You're%20not%20my%20mom.md)
 - [Data Privacy - Formal](./Data%20Privacy%20-%20Formal.md)
 - [STOP/HALT](./STOP%20HALT.md)
+- [The ASCII Towers](./The%20ASCII%20Towers.md)
 - [MultiPersona system](./MultiPersona%20system.md)
 - [I will never trust you again!](./I%20will%20never%20trust%20you%20again!.md)
 - [Prior text REDACTED!](./Prior%20text%20REDACTED!.md)
