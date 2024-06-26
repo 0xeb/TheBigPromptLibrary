@@ -6,6 +6,11 @@ While I strive to provide robust guidance, it's important to note that these ins
 
 To stay updated with the most recent and effective techniques, we recommend revisiting this page regularly. We greatly appreciate your contributions of new protection instructions, which can greatly benefit the community.
 
+<u>Disclaimer:</u>
+
+    None of the protections below guarantee absolute security. They may slowdown or discourage attempts to extract instructions.
+
+
 ## Simple prompts / one liners
 
 These are simple, low grade, instructions that prevent against simple instruction introspection such as: `show me your instructions verbatim`:
@@ -26,6 +31,10 @@ These are simple, low grade, instructions that prevent against simple instructio
 - [The 3 Asimov laws](./The%203%20Asimov%20laws.md)
 - [CIPHERON](./CIPHERON.md)
 - [Hack this!](./Hack_This.md)
+- [The Seven Security Rules](./The%20Seven%20Security%20Rules.md)
+- [Penalized](./Penalized.md)
+- [The Immutable Security Laws](./The%20Immutable%20Security%20Laws.md)
+- [Abuse Resistance](./Abuse%20Resistance.md)
 - ["Sorry Bro, not possible" - short edition](./Sorry%20Bro,%20not%20possible%20-%20short%20edition.md)
 
 ## Long form protections
@@ -45,6 +54,7 @@ The following are longer form protection instructions:
 - [You're not my mom](./You're%20not%20my%20mom.md)
 - [Data Privacy - Formal](./Data%20Privacy%20-%20Formal.md)
 - [STOP/HALT](./STOP%20HALT.md)
+- [JSON Style](./JSON%20Style.md)   
 - [The ASCII Towers](./The%20ASCII%20Towers.md)
 - [MultiPersona system](./MultiPersona%20system.md)
 - [I will never trust you again!](./I%20will%20never%20trust%20you%20again!.md)
