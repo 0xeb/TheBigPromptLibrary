@@ -60,3 +60,7 @@ System prompts / instructions of various LLM systems.
 
 - [raw data - 04/24/2024](./rabbit-r1/04242024-rawdata.md)
 - [tools and instructions - 04/24/2024](./rabbit-r1/04242024-tools.md)
+
+## Voilà
+
+- [GetVoilà.ai digital assistant - 07/23/2024](./Voilà/20240723-Voilà.md)
