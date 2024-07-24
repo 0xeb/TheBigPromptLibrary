@@ -64,3 +64,7 @@ System prompts / instructions of various LLM systems.
 ## Voilà
 
 - [GetVoilà.ai digital assistant - 07/23/2024](./Voilà/20240723-Voilà.md)
+
+## Venice.ai
+
+- [Venice.ai - 07/24/2024](./Venice.ai/07242024-Venice.md)
