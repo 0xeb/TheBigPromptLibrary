@@ -39,7 +39,7 @@ System prompts / instructions of various LLM systems.
 ## Grok
 
 - [Grok - 12/14/2023](./Grok/12142023-Grok.md)
-- [Grok 2 - 08/21/2024](./Grok/08212024-Grok2.md)
+- [Grok 2 mini (beta) - 08/21/2024](./Grok/08212024-Grok2.md)
 
 ## Databricks
 
