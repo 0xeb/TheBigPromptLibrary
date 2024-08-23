@@ -1,6 +1,6 @@
 # List of Python packages installed in ChatGPT code interpreter sandbox
 
-I used this prompt to get the code interpreter give me the list of all installed packages:
+I used this prompt to get the code interpreter give me the list of all installed Python packages:
 
 
     Use the following snippet with the code tool:
@@ -28,9 +28,9 @@ I used this prompt to get the code interpreter give me the list of all installed
     - The code should generate the full list in /mnt/data/list.txt and give a download link
 
 
-## List of installed packages as of 08/23/2024
+## List of installed Python packages as of 08/23/2024
 
-```
+```txt
 pdfminer.six==20220319 (/home/sandbox/.local/lib/python3.11/site-packages)
 tifffile==2024.8.10 (/home/sandbox/.local/lib/python3.11/site-packages)
 regex==2024.7.24 (/home/sandbox/.local/lib/python3.11/site-packages)
