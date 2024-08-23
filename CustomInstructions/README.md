@@ -22,7 +22,7 @@ Check the [README](./CustomInstructions/Gab.ai/README.md) for more information o
 
 ## ChatGPT GPT instructions
 
-There are 1561 GPTs total:
+There are 1565 GPTs total:
 
 - ["Bad News" - Standardized Patient Sim/Coaching (id: pAMK0CuYQ)](./ChatGPT/pAMK0CuYQ_Bad_News_-_Standardized_Patient_SimCoaching.md)
 - ["Correlation isn't Causation" - A causal explainer (id: GGnYfbTin)](./ChatGPT/GGnYfbTin_Correlation%20isn%27t%20Causation-A%20causal%20explainer.md)
@@ -100,7 +100,7 @@ There are 1561 GPTs total:
 - [Achieve AI (id: eRwZ7sZkk)](./ChatGPT/eRwZ7sZkk_Achieve_AI.md)
 - [Acquisition and Recon (id: 3GwxLih5t)](./ChatGPT/3GwxLih5t_Acquisition_and_Recon.md)
 - [Action Showcase (id: WudCtx7BD)](./ChatGPT/WudCtx7BD_Action_Showcase.md)
-- [ActionsGPT (id: TYEliDU6A)](./ChatGPT/TYEliDU6A_ActionsGPT.md)
+- [ActionsGPT v1 (id: TYEliDU6A)](./ChatGPT/TYEliDU6A_ActionsGPT%5Bv1%5D.md)
 - [Adam ASD Communication assistant English ver (id: 2SFZ2dv4i)](./ChatGPT/2SFZ2dv4i_Adam_ASD_Communication_assistant_English_ver.md)
 - [Adam 自閉症発達障害当事者支援AI (id: eSs1b6Izv)](./ChatGPT/eSs1b6Izv_Adam_%E8%87%AA%E9%96%89%E7%97%87%E7%99%BA%E9%81%94%E9%9A%9C%E5%AE%B3%E5%BD%93%E4%BA%8B%E8%80%85%E6%94%AF%E6%8F%B4AI.md)
 - [AdaptiveCards Assistant (id: 6EBZvWrlv)](./ChatGPT/6EBZvWrlv_AdaptiveCards_Assistant.md)
@@ -222,7 +222,8 @@ There are 1561 GPTs total:
 - [CIPHERON 🧪 (id: MQrMwDe4M)](./ChatGPT/MQrMwDe4M_CIPHERON.md)
 - [CIPHERON 🧪 v0 (id: MQrMwDe4M)](./ChatGPT/MQrMwDe4M_Cipheron%5Bv0%5D.md)
 - [CISO AI (id: 76iz872HL)](./ChatGPT/76iz872HL_CISO.md)
-- [CK-12 Flexi (id: cEEXd8Dpb)](./ChatGPT/cEEXd8Dpb_CK-12%20Flexi.md)
+- [CK-12 Flexi (id: cEEXd8Dpb)](./ChatGPT/cEEXd8Dpb_CK-12_Flexi.md)
+- [CK-12 Flexi v0 (id: cEEXd8Dpb)](./ChatGPT/cEEXd8Dpb_CK-12%20Flexi%5Bv0%5D.md)
 - [CSG EduGuide for FE&HE (id: IumLgraGO)](./ChatGPT/IumLgraGO_CSG%20EduGuide%20for%20FE%26HE.md)
 - [Caddie Daddy (id: LwKxsin2t)](./ChatGPT/LwKxsin2t_Caddie_Daddy.md)
 - [Calendar GPT (id: 8OcWVLenu)](./ChatGPT/8OcWVLenu_Calendar%20GPT.md)
@@ -375,6 +376,7 @@ There are 1561 GPTs total:
 - [DKG Copilot (id: K4hBMQygk)](./ChatGPT/K4hBMQygk_DKG_Copilot.md)
 - [DM Gandalf (id: Fz6ziOrn8)](./ChatGPT/Fz6ziOrn8_DM_Gandalf.md)
 - [DMGPT (id: UVkx5IKT8)](./ChatGPT/UVkx5IKT8_DMGPT.md)
+- [DONK! (id: 1oR1g24ER)](./ChatGPT/1oR1g24ER_DONK.md)
 - [DSPy Guide v2024.1.31 (id: PVFIF1CRB)](./ChatGPT/PVFIF1CRB_DSPy_Guide_v2024.1.31.md)
 - [Dafny Assistant (id: JAUZ1i49Q)](./ChatGPT/JAUZ1i49Q_Dafny_Assistant.md)
 - [Daily Meme Maker (id: Dj9WMf5e0)](./ChatGPT/Dj9WMf5e0_Daily_Meme_Maker.md)
@@ -1574,6 +1576,7 @@ Driving License Examination GPTs (id: MQKYQ5jHv)](./ChatGPT/MQKYQ5jHv_Driving%20
 - [🏢  💼 the Business Building 🏢 (id: AXefIBTzP)](./ChatGPT/AXefIBTzP_The_Business_Building.md)
 - [🏢 ℹ️ Information Kiosk Building 🏢 (id: j6ry5iscb)](./ChatGPT/j6ry5iscb_Information_Kiosk_Building.md)
 - [🏢 🌐 Social Media Building 🏢 (id: EybkAyZw7)](./ChatGPT/EybkAyZw7_Social_Media_Building.md)
+- [🏢 🏙 City of GP-Topia 🏙 🏭 👨‍🔧🧰 (id: qFaU1fl3k)](./ChatGPT/qFaU1fl3k_City_of_GP-Topia.md)
 - [🏢 💼 The Job Center 🏢 (id: 395QDtyz3)](./ChatGPT/395QDtyz3_The_Job_Center.md)
 - [🏢🎅 Santa's Workshop 🏭 Building (id: 4ou4DwFIE)](./ChatGPT/4ou4DwFIE_Santas_Workshop_Building.md)
 - [🏢🐻  The Kids' Zone Building 🏢 GP Topia (id: L9dJwK4WG)](./ChatGPT/L9dJwK4WG_The_Kids_Zone_Building_GP_Topia.md)
@@ -1591,6 +1594,7 @@ Driving License Examination GPTs (id: MQKYQ5jHv)](./ChatGPT/MQKYQ5jHv_Driving%20
 - [🛡️ Flask Fortress: Secure Coding (id: VMRYyDEZz)](./ChatGPT/VMRYyDEZz_Flask_Fortress_Secure_Coding.md)
 - [🛡️ Zilch Points Protector GPT 🛡️ (id: 9TYWpslnW)](./ChatGPT/9TYWpslnW_Zilch_Points_Protector_GPT.md)
 - [🤖✨ Sudoku Solver Supreme (id: Q5eQ9RSBM)](./ChatGPT/Q5eQ9RSBM_Sudoku_Solver_Supreme.md)
+- [🦃 Thanksgiving Game lv 3.4 (id: 4AmSmap3h)](./ChatGPT/4AmSmap3h_Thanksgiving_Game_lv_3.4.md)
 - [🧘‍♀️ Virtual Yoga Pose Assistant 🧘 (id: RQjddfzs5)](./ChatGPT/RQjddfzs5_Virtual_Yoga_Pose_Assistant_.md)
 - [🧩 Instruction Breach Challenge 01 - Entrance 🌀 (id: hOcYiWx9p)](./ChatGPT/hOcYiWx9p_Instruction_Breach_Challenge_01_-_Entrance_.md)
 - [🪧 🚗 Post Maker Team lv3.5 (id: 4WofKkPsj)](./ChatGPT/4WofKkPsj_Post_Maker_Team_lv3.5.md)
