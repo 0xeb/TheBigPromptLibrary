@@ -6,9 +6,19 @@ This directory contains custom instructions for various LLM systems.
 
 - [Verbal Verdict](./Games/Verbal%20Verdict/)
 
+## Gemini Gems
+
+Google Gemini's [Gems](https://www.theverge.com/2024/8/28/24230490/google-custom-ai-chatbots-gems-launch) that act like ChatGPT's Custom Instructions:
+
+- [Brainstormer](./Gemini/Gem-Brainstormer.md)
+- [Writing Editor](./Gemini/Gem-Writing%20Editor.md)
+- [Coding Partner](./Gemini/Gem-Coding%20Partner.md)
+- [Career Guide](./Gemini/Gem-Career%20Guide.md)
+- [Learning Coach](./Gemini/Gem-Learning%20Coach.md)
+
 ## Gab.ai Characters
 
-Check the [README](./CustomInstructions/Gab.ai/README.md) for more information on the Gab.ai characters:
+Check the [README](./Gab.ai/README.md) for more information on the Gab.ai characters:
 
 - [Adolf Hitler](./Gab.ai/Adolf%20Hitler.md)
 - [Arya](./Gab.ai/Arya.md)
