@@ -35,6 +35,9 @@ System prompts / instructions of various LLM systems.
 
 - [Claude 3 - 03/04/2024](./Claude/20240304-Claude3.md)
 - [Claude 3 - 03/20/2024](./Claude/20240320-Claude3.md)
+- [Claude 3 Haiku - 07/12/2024](./Claude/20240712-Claude3-Haiku.md)
+- [Claude 3 Opus - 07/12/2024](./Claude/20240712-Claude3-Opus.md)
+- [Claude 3.5 Sonnet - 07/12/2024](./Claude/20240712-Claude3.5-Sonnet.md)
 
 ## Grok
 
