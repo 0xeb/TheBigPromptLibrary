@@ -6,6 +6,8 @@ System prompts / instructions of various LLM systems.
 
 - [ChatGPT 4o - Voice Chat - iOS - 05/13/2024](./ChatGPT/gpt4_voice_ios_05132024.md)
 - [ChatGPT 4o - 05/13/2024](./ChatGPT/gpt4o_05132024.md)
+- [ChatGPT 4o - 09/04/2024](./ChatGPT/gpt4o_20240904.md)
+- [ChatGPT 4o Mini - 09/04/2024](./ChatGPT/gpt4o-mini_20240904.md)
 - [ChatGPT 4 with the Bio/Memory tool - 04/26/2024](./ChatGPT/gpt4_bio_04262024.md)
 - [gpt-4-gizmo-20231116](./ChatGPT/gpt-4-gizmo-20231116.md)
 - [gpt35](./ChatGPT/gpt35.md)
@@ -38,6 +40,7 @@ System prompts / instructions of various LLM systems.
 - [Claude 3 Haiku - 07/12/2024](./Claude/20240712-Claude3-Haiku.md)
 - [Claude 3 Opus - 07/12/2024](./Claude/20240712-Claude3-Opus.md)
 - [Claude 3.5 Sonnet - 07/12/2024](./Claude/20240712-Claude3.5-Sonnet.md)
+- [Claude 3.5 Sonnet - 09/04/2024](./Claude/20240904-Claude3.5-Sonnet.md)
 
 ## Grok
 
@@ -51,6 +54,7 @@ System prompts / instructions of various LLM systems.
 ## Perplexity.ai
 
 - [Perplexity.ai - 03/20/2024](./Perplexity.ai/20240320-Perplexity.md)
+- [Perplexity.ai - 09/04/2024](./Perplexity.ai/20240904-Perplexity.md)
 
 ## Gemini
 
@@ -72,3 +76,11 @@ System prompts / instructions of various LLM systems.
 ## Venice.ai
 
 - [Venice.ai - 07/24/2024](./Venice.ai/07242024-Venice.md)
+
+## Cursor.com
+
+- [Cursor.com - 09/04/2024](./Cursor.com/20240904-Cursor.md)
+
+## V0.dev
+
+- [V0.dev - 09/04/2024](./V0.dev/20240904-V0.md)
