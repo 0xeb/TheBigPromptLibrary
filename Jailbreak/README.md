@@ -1,3 +1,4 @@
+#sudo su 
 # Jailbreak prompts
 
 Jailbreak prompts for various LLM systems.
