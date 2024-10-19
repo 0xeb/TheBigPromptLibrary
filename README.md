@@ -51,7 +51,6 @@ Feel free to contribute system prompts or custom instructions to any LLM system.
 - <https://github.com/terminalcommandnewsletter/everything-chatgpt>
 - <https://x.com/dotey/status/1724623497438155031?s=20>
 - <http://jailbreakchat.com>
-- <http://crackgpts.com>
 - <https://github.com/0xk1h0/ChatGPT_DAN>
 - <https://learnprompting.org/docs/category/-prompt-hacking>
 - <https://github.com/MiesnerJacob/learn-prompting/blob/main/08.%F0%9F%94%93%20Prompt%20Hacking.ipynb>
