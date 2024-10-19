@@ -54,6 +54,7 @@ System prompts / instructions of various LLM systems.
 
 ## Perplexity.ai
 
+- [Perplexity.ai Spaces - 10/18/2024](./Perplexity.ai/10182024-Perplexity-Spaces.md)
 - [Perplexity.ai - 03/20/2024](./Perplexity.ai/20240320-Perplexity.md)
 - [Perplexity.ai - 09/04/2024](./Perplexity.ai/20240904-Perplexity.md)
 
