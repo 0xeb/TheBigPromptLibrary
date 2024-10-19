@@ -6,6 +6,7 @@ System prompts / instructions of various LLM systems.
 
 - [ChatGPT 4o with the Canvas tool - 10/03/2024](./ChatGPT/gpt4o_canvas_10032024.md)
 - [ChatGPT 4o - Voice Chat - iOS - 05/13/2024](./ChatGPT/gpt4_voice_ios_05132024.md)
+- [ChatGPT 4o - 10/19/2024](./ChatGPT/gpt4o_10192024.md)
 - [ChatGPT 4o - 05/13/2024](./ChatGPT/gpt4o_05132024.md)
 - [ChatGPT 4o - 09/04/2024](./ChatGPT/gpt4o_20240904.md)
 - [ChatGPT 4o Mini - 09/04/2024](./ChatGPT/gpt4o-mini_20240904.md)
