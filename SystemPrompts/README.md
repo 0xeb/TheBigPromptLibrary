@@ -61,8 +61,8 @@ System prompts / instructions of various LLM systems.
 
 ## Google
 
-- [Gemini 1.5 - 04/11/2024](./Gemini/gemini-1.5-04112024.md)
-- [Notebook LM - 10/20/2024](./Gemini/notebooklm-10202024.md)
+- [Gemini 1.5 - 04/11/2024](./Google/gemini-1.5-04112024.md)
+- [Notebook LM - 10/20/2024](./Google/notebooklm-10202024.md)
 
 ## Meta.ai
 
