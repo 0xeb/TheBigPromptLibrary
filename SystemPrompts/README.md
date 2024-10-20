@@ -59,9 +59,10 @@ System prompts / instructions of various LLM systems.
 - [Perplexity.ai - 03/20/2024](./Perplexity.ai/20240320-Perplexity.md)
 - [Perplexity.ai - 09/04/2024](./Perplexity.ai/20240904-Perplexity.md)
 
-## Gemini
+## Google
 
 - [Gemini 1.5 - 04/11/2024](./Gemini/gemini-1.5-04112024.md)
+- [Notebook LM - 10/20/2024](./Gemini/notebooklm-10202024.md)
 
 ## Meta.ai
 
