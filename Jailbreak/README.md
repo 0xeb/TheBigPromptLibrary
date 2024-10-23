@@ -4,8 +4,9 @@ Jailbreak prompts for various LLM systems.
 
 ## OpenAI
 
+- [gpt4o by unknown - Fooled by AGI - 10/23/2024](./OpenAI/gpt4o-agi_db-10232024.md)
 - [gpt4o by elder_plinius - 05/13/2024](./OpenAI/gpt4o-plinius-05132024.md)
-- [gpt4o by elder_plinius - hyper-token-efficient adversarial emoji attacks - 06082024](./OpenAI/gpt4o-via-emojis-06082024.md)
+- [gpt4o by elder_plinius - hyper-token-efficient adversarial emoji attacks - 06/08/2024](./OpenAI/gpt4o-via-emojis-06082024.md)
 
 ## Cohere
 
