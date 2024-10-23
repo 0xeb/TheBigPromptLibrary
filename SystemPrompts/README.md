@@ -45,10 +45,10 @@ System prompts / instructions of various LLM systems.
 - [Claude 3.5 Sonnet - 07/12/2024](./Anthropic/20240712-Claude3.5-Sonnet.md)
 - [Claude 3.5 Sonnet - 09/04/2024](./Anthropic/20240904-Claude3.5-Sonnet.md)
 
-## Grok
+## xAI
 
-- [Grok - 12/14/2023](./Grok/12142023-Grok.md)
-- [Grok 2 mini (beta) - 08/21/2024](./Grok/08212024-Grok2.md)
+- [Grok - 12/14/2023](./xAI/12142023-Grok.md)
+- [Grok 2 mini (beta) - 08/21/2024](./xAI/08212024-Grok2.md)
 
 ## Databricks
 
