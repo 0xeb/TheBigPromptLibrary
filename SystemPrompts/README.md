@@ -35,8 +35,9 @@ System prompts / instructions of various LLM systems.
 - [GitHub Copilot (Visual Studio) - 02/29/2024](./Copilot/github_copilot_vs_02292024.md)
 - [GitHub Copilot (VS Code) - 02/29/2024](./Copilot/github_copilot_vscode_02292024.md)
 
-## Claude
+## Anthropic
 
+- [Anthropic's "computer use" system prompt - 10/22/2024](./Claude/20241022-Computer-Use.md)
 - [Claude 3 - 03/04/2024](./Claude/20240304-Claude3.md)
 - [Claude 3 - 03/20/2024](./Claude/20240320-Claude3.md)
 - [Claude 3 Haiku - 07/12/2024](./Claude/20240712-Claude3-Haiku.md)
