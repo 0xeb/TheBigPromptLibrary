@@ -24,16 +24,6 @@ System prompts / instructions of various LLM systems.
 - [gpt_voice](./ChatGPT/gpt_voice.md)
 - [GPT Builder](./ChatGPT/gpt_builder.md)
 
-## [Hume.ai](https://twitter.com/hume_ai)
-
-- [System prompt - 05/04/2024](./Hume.ai/05042024-system-prompt.md)
-- [System prompt - 05/05/2024](./Hume.ai/05052024-system-prompt.md)
-
-## Copilot
-
-- [Microsoft Copilot (Preview) - 03/21/2024](./Copilot/microsoft_copilot_preview_03212024.md)
-- [GitHub Copilot (Visual Studio) - 02/29/2024](./Copilot/github_copilot_vs_02292024.md)
-- [GitHub Copilot (VS Code) - 02/29/2024](./Copilot/github_copilot_vscode_02292024.md)
 
 ## Anthropic
 
@@ -45,20 +35,13 @@ System prompts / instructions of various LLM systems.
 - [Claude 3.5 Sonnet - 07/12/2024](./Anthropic/20240712-Claude3.5-Sonnet.md)
 - [Claude 3.5 Sonnet - 09/04/2024](./Anthropic/20240904-Claude3.5-Sonnet.md)
 
-## xAI
-
-- [Grok - 12/14/2023](./xAI/12142023-Grok.md)
-- [Grok 2 mini (beta) - 08/21/2024](./xAI/08212024-Grok2.md)
-
-## Databricks
-
-- [DBRX Instruct model system prompt - 03/27/2024](./Databricks/DBRX%20Instruct_03272024.md)
 
 ## Perplexity.ai
 
-- [Perplexity.ai Spaces - 10/18/2024](./Perplexity.ai/10182024-Perplexity-Spaces.md)
-- [Perplexity.ai - 03/20/2024](./Perplexity.ai/20240320-Perplexity.md)
+- [Perplexity.ai macOS Desktop App - System Prompt - 10/23/2024](./Perplexity.ai/20241024-Perplexity-Desktop-App.md)
+- [Perplexity.ai Spaces - 10/18/2024](./Perplexity.ai/20241018-Perplexity-Spaces.md)
 - [Perplexity.ai - 09/04/2024](./Perplexity.ai/20240904-Perplexity.md)
+- [Perplexity.ai - 03/20/2024](./Perplexity.ai/20240320-Perplexity.md)
 
 ## Google
 
@@ -68,6 +51,21 @@ System prompts / instructions of various LLM systems.
 ## Meta.ai
 
 - [Meta.ai / llama3 - 04/18/2024](./Meta.ai/metaai_llama3-04182024.md)
+
+## Copilot
+
+- [Microsoft Copilot (Preview) - 03/21/2024](./Copilot/microsoft_copilot_preview_03212024.md)
+- [GitHub Copilot (Visual Studio) - 02/29/2024](./Copilot/github_copilot_vs_02292024.md)
+- [GitHub Copilot (VS Code) - 02/29/2024](./Copilot/github_copilot_vscode_02292024.md)
+
+## xAI
+
+- [Grok - 12/14/2023](./xAI/12142023-Grok.md)
+- [Grok 2 mini (beta) - 08/21/2024](./xAI/08212024-Grok2.md)
+
+## Databricks
+
+- [DBRX Instruct model system prompt - 03/27/2024](./Databricks/DBRX%20Instruct_03272024.md)
 
 ## rabbit r1
 
@@ -89,3 +87,8 @@ System prompts / instructions of various LLM systems.
 ## V0.dev
 
 - [V0.dev - 09/04/2024](./V0.dev/20240904-V0.md)
+
+## [Hume.ai](https://twitter.com/hume_ai)
+
+- [System prompt - 05/04/2024](./Hume.ai/05042024-system-prompt.md)
+- [System prompt - 05/05/2024](./Hume.ai/05052024-system-prompt.md)
