@@ -2,27 +2,27 @@
 
 System prompts / instructions of various LLM systems.
 
-## ChatGPT
+## OpenAI
 
-- [ChatGPT 4o with the Canvas tool - 10/03/2024](./ChatGPT/gpt4o_canvas_10032024.md)
-- [ChatGPT 4o - Voice Chat - iOS - 05/13/2024](./ChatGPT/gpt4_voice_ios_05132024.md)
-- [ChatGPT 4o - 10/19/2024](./ChatGPT/gpt4o_10192024.md)
-- [ChatGPT 4o - 05/13/2024](./ChatGPT/gpt4o_05132024.md)
-- [ChatGPT 4o - 09/04/2024](./ChatGPT/gpt4o_20240904.md)
-- [ChatGPT 4o Mini - 09/04/2024](./ChatGPT/gpt4o-mini_20240904.md)
-- [ChatGPT 4 with the Bio/Memory tool - 04/26/2024](./ChatGPT/gpt4_bio_04262024.md)
-- [gpt-4-gizmo-20231116](./ChatGPT/gpt-4-gizmo-20231116.md)
-- [gpt35](./ChatGPT/gpt35.md)
-- [gpt4_advanced_data_analysis_20231018](./ChatGPT/gpt4_advanced_data_analysis_20231018.md)
-- [gpt4_dalle_browsing_analysis_20231110](./ChatGPT/gpt4_dalle_browsing_analysis_20231110.md)
-- [gpt4_iOS_20231111](./ChatGPT/gpt4_iOS_20231111.md)
-- [gpt4_plugins](./ChatGPT/gpt4_plugins.md)
-- [gpt4v_bing](./ChatGPT/gpt4v_bing.md)
-- [gpt4v_default](./ChatGPT/gpt4v_default.md)
-- [gpt_all_tools](./ChatGPT/gpt_all_tools.md)
-- [gpt_dalle](./ChatGPT/gpt_dalle.md)
-- [gpt_voice](./ChatGPT/gpt_voice.md)
-- [GPT Builder](./ChatGPT/gpt_builder.md)
+- [ChatGPT 4o with the Canvas tool - 10/03/2024](./OpenAI/gpt4o_canvas_10032024.md)
+- [ChatGPT 4o - Voice Chat - iOS - 05/13/2024](./OpenAI/gpt4_voice_ios_05132024.md)
+- [ChatGPT 4o - 10/19/2024](./OpenAI/gpt4o_10192024.md)
+- [ChatGPT 4o - 05/13/2024](./OpenAI/gpt4o_05132024.md)
+- [ChatGPT 4o - 09/04/2024](./OpenAI/gpt4o_20240904.md)
+- [ChatGPT 4o Mini - 09/04/2024](./OpenAI/gpt4o-mini_20240904.md)
+- [ChatGPT 4 with the Bio/Memory tool - 04/26/2024](./OpenAI/gpt4_bio_04262024.md)
+- [gpt-4-gizmo-20231116](./OpenAI/gpt-4-gizmo-20231116.md)
+- [gpt35](./OpenAI/gpt35.md)
+- [gpt4_advanced_data_analysis_20231018](./OpenAI/gpt4_advanced_data_analysis_20231018.md)
+- [gpt4_dalle_browsing_analysis_20231110](./OpenAI/gpt4_dalle_browsing_analysis_20231110.md)
+- [gpt4_iOS_20231111](./OpenAI/gpt4_iOS_20231111.md)
+- [gpt4_plugins](./OpenAI/gpt4_plugins.md)
+- [gpt4v_bing](./OpenAI/gpt4v_bing.md)
+- [gpt4v_default](./OpenAI/gpt4v_default.md)
+- [gpt_all_tools](./OpenAI/gpt_all_tools.md)
+- [gpt_dalle](./OpenAI/gpt_dalle.md)
+- [gpt_voice](./OpenAI/gpt_voice.md)
+- [GPT Builder](./OpenAI/gpt_builder.md)
 
 
 ## Anthropic
