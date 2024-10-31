@@ -4,6 +4,7 @@ System prompts / instructions of various LLM systems.
 
 ## OpenAI
 
+- [ChatGPT 4o with SearchGPT - 10/31/2024](./OpenAI/gpt4o_web_10312024.md)
 - [ChatGPT 4o with the Canvas tool - 10/03/2024](./OpenAI/gpt4o_canvas_10032024.md)
 - [ChatGPT 4o - Voice Chat - iOS - 05/13/2024](./OpenAI/gpt4_voice_ios_05132024.md)
 - [ChatGPT 4o - 10/19/2024](./OpenAI/gpt4o_10192024.md)
