@@ -58,6 +58,7 @@ System prompts / instructions of various LLM systems.
 - [Microsoft Copilot (Preview) - 03/21/2024](./Copilot/microsoft_copilot_preview_03212024.md)
 - [GitHub Copilot (Visual Studio) - 02/29/2024](./Copilot/github_copilot_vs_02292024.md)
 - [GitHub Copilot (VS Code) - 02/29/2024](./Copilot/github_copilot_vscode_02292024.md)
+- [GitHub Copilot (VS Code) - 11/11/2024](./Copilot/github_copilot_vscode_11112024.md)
 
 ## xAI
 
