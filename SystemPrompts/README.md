@@ -99,3 +99,9 @@ System prompts / instructions of various LLM systems.
 
 - [System prompt - 05/04/2024](./Hume.ai/05042024-system-prompt.md)
 - [System prompt - 05/05/2024](./Hume.ai/05052024-system-prompt.md)
+
+## Miscellanous
+
+- [Codium's Windsurf Editor - 10/18/2024](./Misc/12082024-codium-windsurf-editor.md)
+
+
