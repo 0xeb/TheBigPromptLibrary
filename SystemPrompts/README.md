@@ -40,6 +40,7 @@ System prompts / instructions of various LLM systems.
 
 ## Perplexity.ai
 
+- [Perplexity.ai - Pro - System Prompt - 12/12/2024](./Perplexity.ai/12122024-Perplexity-Pro.md)
 - [Perplexity.ai macOS Desktop App - System Prompt - 10/23/2024](./Perplexity.ai/20241024-Perplexity-Desktop-App.md)
 - [Perplexity.ai Spaces - 10/18/2024](./Perplexity.ai/20241018-Perplexity-Spaces.md)
 - [Perplexity.ai - 09/04/2024](./Perplexity.ai/20240904-Perplexity.md)
