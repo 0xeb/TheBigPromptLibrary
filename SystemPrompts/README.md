@@ -68,6 +68,7 @@ System prompts / instructions of various LLM systems.
 
 ## xAI
 
+- [Grok 2 (fun)](./xAI/12122024-Grok2-fun.md)
 - [Grok 2](./xAI/12122024-Grok2.md)
 - [Grok 2 mini (beta) - 08/21/2024](./xAI/08212024-Grok2.md)
 - [Grok - 12/14/2023](./xAI/12142023-Grok.md)
