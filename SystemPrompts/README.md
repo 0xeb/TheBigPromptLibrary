@@ -47,6 +47,7 @@ System prompts / instructions of various LLM systems.
 
 ## Google
 
+- [Gemini Advanced Pro 1.5](./Google/gemini-advanced-pro-1.5-12122024.md)
 - [Gemini 1.5 - 04/11/2024](./Google/gemini-1.5-04112024.md)
 - [Notebook LM - 10/20/2024](./Google/notebooklm-10202024.md)
 
