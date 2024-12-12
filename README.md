@@ -43,19 +43,3 @@ Feel free to contribute system prompts or custom instructions to any LLM system.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=0xeb/TheBigPromptLibrary&type=Date)](https://star-history.com/#0xeb/TheBigPromptLibrary&Date)
 
-## Learning resources and sites
-
-- <https://github.com/LouisShark/chatgpt_system_prompt/> where TBPL was originally forked from
-- <https://embracethered.com/> | [ASCII Smuggler](https://embracethered.com/blog/ascii-smuggler.html)
-- <https://www.reddit.com/r/ChatGPTJailbreak/>
-- <https://github.com/terminalcommandnewsletter/everything-chatgpt>
-- <https://x.com/dotey/status/1724623497438155031?s=20>
-- <http://jailbreakchat.com>
-- <https://github.com/0xk1h0/ChatGPT_DAN>
-- <https://learnprompting.org/docs/category/-prompt-hacking>
-- <https://github.com/MiesnerJacob/learn-prompting/blob/main/08.%F0%9F%94%93%20Prompt%20Hacking.ipynb>
-- <https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516>
-- <https://news.ycombinator.com/item?id=35630801>
-- <https://github.com/0xeb/gpt-analyst/>
-- <https://arxiv.org/abs/2312.14302>
-- <https://suefel.com/gpts>
