@@ -104,11 +104,12 @@ System prompts / instructions of various LLM systems.
 
 ## [Hume.ai](https://twitter.com/hume_ai)
 
-- [System prompt - 05/04/2024](./Hume.ai/05042024-system-prompt.md)
 - [System prompt - 05/05/2024](./Hume.ai/05052024-system-prompt.md)
+- [System prompt - 05/04/2024](./Hume.ai/05042024-system-prompt.md)
 
 ## Miscellanous
 
+- [Providence/Swedish Hospital - Grace chatbot - 12/18/2024](./Misc/12182024-providence-chatbot-grace.md)
 - [Codium's Windsurf Editor - 10/18/2024](./Misc/12082024-codium-windsurf-editor.md)
 
 
