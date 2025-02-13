@@ -69,6 +69,7 @@ System prompts / instructions of various LLM systems.
 
 ## Mistral
 
+- [Le Chat - 02/12/2024](./Mistral/lechat-02122025.md)
 - [Le Chat - 11/18/2024](./Mistral/lechat-11182024.md)
 
 ## xAI
