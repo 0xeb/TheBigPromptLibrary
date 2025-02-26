@@ -32,14 +32,14 @@ System prompts / instructions of various LLM systems.
 
 ## Anthropic
 
-- [Anthropic's "computer use" system prompt - 10/22/2024](./Anthropic/20241022-Computer-Use.md)
-- [Claude 3 - 03/04/2024](./Anthropic/20240304-Claude3.md)
-- [Claude 3 - 03/20/2024](./Anthropic/20240320-Claude3.md)
-- [Claude 3 Haiku - 07/12/2024](./Anthropic/20240712-Claude3-Haiku.md)
-- [Claude 3 Opus - 07/12/2024](./Anthropic/20240712-Claude3-Opus.md)
-- [Claude 3.5 Sonnet - 07/12/2024](./Anthropic/20240712-Claude3.5-Sonnet.md)
+- [Claude 3.7 Sonnet - 02/25/2025](./Anthropic/20250225-Claude3.7-Sonnet.md)
 - [Claude 3.5 Sonnet - 09/04/2024](./Anthropic/20240904-Claude3.5-Sonnet.md)
-
+- [Claude 3.5 Sonnet - 07/12/2024](./Anthropic/20240712-Claude3.5-Sonnet.md)
+- [Claude 3 Opus - 07/12/2024](./Anthropic/20240712-Claude3-Opus.md)
+- [Claude 3 Haiku - 07/12/2024](./Anthropic/20240712-Claude3-Haiku.md)
+- [Claude 3 - 03/20/2024](./Anthropic/20240320-Claude3.md)
+- [Claude 3 - 03/04/2024](./Anthropic/20240304-Claude3.md)
+- [Anthropic's "computer use" system prompt - 10/22/2024](./Anthropic/20241022-Computer-Use.md)
 
 ## Perplexity.ai
 
@@ -61,11 +61,12 @@ System prompts / instructions of various LLM systems.
 
 ## Copilot
 
+- [Microsoft Copilot (Website) - 02/25/2025](./Copilot/microsoft_copilot_website_02252025.md)
 - [Microsoft Copilot (Desktop App) - 11/13/2024](./Copilot/microsoft_copilot_desktop_11132024.md)
-- [Microsoft Copilot (Preview) - 03/21/2024](./Copilot/microsoft_copilot_preview_03212024.md)
-- [GitHub Copilot (Visual Studio) - 02/29/2024](./Copilot/github_copilot_vs_02292024.md)
-- [GitHub Copilot (VS Code) - 02/29/2024](./Copilot/github_copilot_vscode_02292024.md)
 - [GitHub Copilot (VS Code) - 11/11/2024](./Copilot/github_copilot_vscode_11112024.md)
+- [Microsoft Copilot (Preview) - 03/21/2024](./Copilot/microsoft_copilot_preview_03212024.md)
+- [GitHub Copilot (VS Code) - 02/29/2024](./Copilot/github_copilot_vscode_02292024.md)
+- [GitHub Copilot (Visual Studio) - 02/29/2024](./Copilot/github_copilot_vs_02292024.md)
 
 ## Mistral
 
