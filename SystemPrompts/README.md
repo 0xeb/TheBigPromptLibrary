@@ -4,6 +4,7 @@ System prompts / instructions of various LLM systems.
 
 ## OpenAI
 
+- [ChatGPT 4.5 - System Prompt - 03/05/2025](./OpenAI/gpt45_system_prompt_03052025.md)
 - [ChatGPT - Tasks and Automation - 01/14/2024](./OpenAI/gpt4o_tasks_and_automation_01142025.md)
 - [ChatGPT - Santa mode - December 2024 - by p1njc70r](./OpenAI/santa_mode_dec2024.md)
 - [ChatGPT with Projects - 12/15/2024](./OpenAI/chatgpt_with_projects_12152024.md)
