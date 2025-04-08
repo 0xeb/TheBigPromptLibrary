@@ -61,6 +61,7 @@ System prompts / instructions of various LLM systems.
 
 ## Meta.ai
 
+- [Meta.ai / llama4 - 04/08/2024](./Meta.ai/metaai_llama4-04082025.md)
 - [Meta.ai / llama3 - 04/18/2024](./Meta.ai/metaai_llama3-04182024.md)
 
 ## Copilot
