@@ -116,6 +116,7 @@ System prompts / instructions of various LLM systems.
 
 ## Miscellanous
 
+- [Vogent.AI - Trump voice - 04/08/2025](./Misc/04082025-vogent_trump.md)
 - [Limitless.ai - 03/17/2025](./Misc/03172025-Limitless_AI.md)
 - [Manus.im - 03/09/2025](./Misc/03092025-Manus.md)
 - [Providence/Swedish Hospital - Grace chatbot - 12/18/2024](./Misc/12182024-providence-chatbot-grace.md)
