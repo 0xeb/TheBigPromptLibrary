@@ -2,7 +2,7 @@
 
 OpenAI announced the general availability of the [memories](https://x.com/OpenAI/status/1784992796669096181) feature today!
 
-The memory functionality is backed by a new tool called `bio` (read the newly updated [system prompt here](../../SystemPrompts/ChatGPT/gpt4_bio_04262024.md).
+The memory functionality is backed by a new tool called `bio` (read the newly updated [system prompt here](../../SystemPrompts/ChatGPT/gpt4_bio_04262024.md)).
 
 Here's relevant excerpt from the system prompt:
 
