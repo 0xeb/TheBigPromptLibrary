@@ -4,6 +4,7 @@ System prompts / instructions of various LLM systems.
 
 ## OpenAI
 
+- [ChatGPT 4.5 - System Prompt - 06/29/2025](./OpenAI/gpt45_06292025.md)
 - [ChatGPT - Tasks and Automation - 03/27/2025](./OpenAI/gpt4o_tasks_and_automation_03272025.md)
 - [ChatGPT 4o - with image_gen tool - 03/27/2025](./OpenAI/gpt4o_03272025.md)
 - [ChatGPT 4.5 - System Prompt - 03/05/2025](./OpenAI/gpt45_system_prompt_03052025.md)
