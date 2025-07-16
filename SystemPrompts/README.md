@@ -120,6 +120,7 @@ System prompts / instructions of various LLM systems.
 
 ## Miscellanous
 
+- [Cluely - 06/16/2026](./Misc/06162026-Cluely.md)
 - [Vogent.AI - Trump voice - 04/08/2025](./Misc/04082025-vogent_trump.md)
 - [Limitless.ai - 03/17/2025](./Misc/03172025-Limitless_AI.md)
 - [Manus.im - 03/09/2025](./Misc/03092025-Manus.md)
