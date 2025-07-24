@@ -57,6 +57,7 @@ System prompts / instructions of various LLM systems.
 
 ## Google
 
+- [Gemini 2.5 Pro - IMO Solver and Verifier Prompts - 07/23/2025](./Google/07232025-gemini-2.5-pro-imo.md)
 - [Gemini 2.0 Flash](./Google/gemini-2.0-flash-03072025.md)
 - [Gemini 2.0 Flash Thinking with Tools (gemini.google.com)](./Google/gemini-2.0-flash-thinking-gemini-app-03072025.md)
 - [Gemini Advanced Pro 1.5](./Google/gemini-advanced-pro-1.5-12122024.md)
