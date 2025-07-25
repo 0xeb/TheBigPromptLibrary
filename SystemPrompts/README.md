@@ -128,6 +128,12 @@ See: [https://proton.me/](https://proton.me/)
 
 - [Proton's Lumo AI - 09/04/2024](./Proton/07232025-Lumo.md)
 
+## Augment Code
+
+See: [https://augmentcode.com/](https://www.augmentcode.com/blog/meet-augment-agent)
+
+- [Augment Code - 07/24/2025](./Augment%20Code/20250724-augmentcode.md)
+
 ## Miscellanous
 - [Cluely - 06/16/2026](./Misc/06162026-Cluely.md)
 - [Vogent.AI - Trump voice - 04/08/2025](./Misc/04082025-vogent_trump.md)
