@@ -37,6 +37,15 @@ Resources:
 - [Understanding and protecting GPTs against instruction leakage](https://www.youtube.com/watch?v=O8h_j9jJFjA)
 - [GPT-Analyst: A GPT assistant used to study and reverse engineer GPTs](https://www.youtube.com/watch?v=3KqW_-vV6d4)
 
+## References and citations
+
+On [ArXiv](https://search.arxiv.org/?in=&query=thebigpromptlibrary):
+
+- [A Closer Look at System Prompt Robustness](https://arxiv.org/pdf/2502.12197)
+- [PRSA: Prompt Stealing Attacks against Real-World Prompt Services](https://arxiv.org/pdf/2402.19200)
+- [PromptPex: Automatic Test Generation for Language Model Prompts](https://arxiv.org/pdf/2503.05070v1)
+- [Reflexive Prompt Engineering - A Framework for Responsible Prompt Engineering and Interaction Design](https://arxiv.org/pdf/2504.16204)
+
 ## Contribution
 
 Feel free to contribute system prompts or custom instructions to any LLM system.
