@@ -3,7 +3,7 @@
 System prompts / instructions of various LLM systems.
 
 ## OpenAI
-
+- [ChatGPT - Study Mode (only) - 07/29/2025](./OpenAI/chatgpt_study_mode_07292025.md)
 - [ChatGPT 4.1 Mini - System Prompt - 06/29/2025](./OpenAI/gpt41_mini_06292025.md)
 - [ChatGPT 4.1 - System Prompt - 06/29/2025](./OpenAI/gpt41_06292025.md)
 - [ChatGPT 4.5 - System Prompt - 06/29/2025](./OpenAI/gpt45_06292025.md)
