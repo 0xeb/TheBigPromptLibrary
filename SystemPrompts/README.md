@@ -126,7 +126,13 @@ See: [https://twitter.com/hume_ai](https://twitter.com/hume_ai)
 
 See: [https://proton.me/](https://proton.me/)
 
-- [Proton's Lumo AI - 09/04/2024](./Proton/07232025-Lumo.md)
+- [Proton's Lumo AI - 07/23/2025](./Proton/07232025-Lumo.md)
+
+## SleepHQ
+
+See: [https://sleephq.com/](https://sleephq.com/)
+
+- [Darth Assistant - 07/28/2025](./SleepHQ/07282025-Darth-Assistant.md)
 
 ## Augment Code
 
