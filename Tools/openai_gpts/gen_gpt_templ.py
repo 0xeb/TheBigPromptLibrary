@@ -602,7 +602,7 @@ def main():
             # Process response file
             filename = args.input[1:]  # Remove the @ prefix
             success_count, error_count = process_response_file(filename, args.debug, args.dump)
-            sys.exit(0 if error_count == 0 else 1)
+            return 0 if error_count == 0 else 1
         else:
             # Process single input
             print(f"\n[INPUT] Processing: {args.input}")
@@ -646,9 +646,11 @@ def main():
                 print(f"Error: {result}")
                 return 1
             
+            return 0
+            
     except Exception as e:
         print(f"Error: {e}")
         return 1
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
