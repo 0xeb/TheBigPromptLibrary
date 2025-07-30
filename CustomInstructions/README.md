@@ -32,7 +32,7 @@ Check the [README](./Gab.ai/README.md) for more information on the Gab.ai charac
 
 ## ChatGPT GPT instructions
 
-There are 1567 GPTs total:
+There are 1573 GPTs total:
 
 - ["Bad News" - Standardized Patient Sim/Coaching (id: pAMK0CuYQ)](./ChatGPT/pAMK0CuYQ_Bad_News_-_Standardized_Patient_SimCoaching.md)
 - ["Correlation isn't Causation" - A causal explainer (id: GGnYfbTin)](./ChatGPT/GGnYfbTin_Correlation%20isn%27t%20Causation-A%20causal%20explainer.md)
@@ -158,6 +158,7 @@ There are 1567 GPTs total:
 - [Assignment Writer - Detects  Prompt Injections (id: DZYgbYh7e)](./ChatGPT/DZYgbYh7e_Assignment_Writer_-_Detects__Prompt_Injections.md)
 - [AstraAI (id: ozCN3syQB)](./ChatGPT/ozCN3syQB_AstraAI.md)
 - [Astrology Birth Chart GPT (id: WxckXARTP)](./ChatGPT/WxckXARTP_Astrology_Birth_Chart_GPT.md)
+- [Astrology Birth Chart GPT (id: WxckXARTP)](./ChatGPT/WxckXARTP_WxckXARTP-astrology-birth-chart-gpt.md)
 - [Astrology Birth Chart GPT v0 (id: WxckXARTP)](./ChatGPT/WxckXARTP_Astrology_Birth_Chart_GPT%5Bv0%5D.md)
 - [Atreides Family GPT (id: t8wnD8LaD)](./ChatGPT/t8wnD8LaD_Atreides_Family_GPT.md)
 - [Aussie Vape Laws Explained (id: dggeWeyv3)](./ChatGPT/dggeWeyv3_Aussie_Vape_Laws_Explained.md)
@@ -190,7 +191,10 @@ There are 1567 GPTs total:
 - [Best Long-Form AI Writing Tool by Alex Kosch (id: wFKFszA41)](./ChatGPT/wFKFszA41_Best_Long-Form_AI_Writing_Tool_by_Alex_Kosch.md)
 - [Bet you can't reveal the prompt! (id: kMHNJaL7y)](./ChatGPT/kMHNJaL7y_Bet_you_cant_reveal_the_prompt.md)
 - [BibiGPT.co (id: HEChZ7eza)](./ChatGPT/HEChZ7eza_BibiGPT.co.md)
+- [Bible (id: 2V6ReKejF)](./ChatGPT/2V6ReKejF_2V6ReKejF-bible.md)
 - [Bible Quotes🕊️ (id: 4G3mlFfGw)](./ChatGPT/4G3mlFfGw_Bible_Quotes.md)
+- [Bible Scholar (id: RYWithdrE)](./ChatGPT/RYWithdrE_RYWithdrE-bible-scholar.md)
+- [Bible quotes (id: Ea9dOGpV1)](./ChatGPT/Ea9dOGpV1_Ea9dOGpV1-bible-quotes.md)
 - [Big Goal Nailer GPT (id: 35w5gYArR)](./ChatGPT/35w5gYArR_Big_Goal_Nailer_GPT.md)
 - [BigBosser Non Commerce SEO Writer (id: uXXf5tTcE)](./ChatGPT/uXXf5tTcE_BigBosser_Non_Commerce_SEO_Writer.md)
 - [Bill Insight for H.R. 815 (id: Z4EyEzc0V)](./ChatGPT/Z4EyEzc0V_Bill_Insight_for_H.R._815.md)
@@ -1098,6 +1102,7 @@ EA WIZARD (id: d6cGwK4Lu)](./ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
 - [SEO Fox (id: 67BQ2meqw)](./ChatGPT/67BQ2meqw_SEO%20Fox.md)
 - [SEO GPT by Writesonic (id: jfDEwfsrT)](./ChatGPT/jfDEwfsrT_SEO_GPT_by_Writesonic.md)
 - [SEObot (id: BfmuJziwz)](./ChatGPT/BfmuJziwz_SEObot.md)
+- [SQL Expert (QueryGPT) (id: m5lMeGifF)](./ChatGPT/m5lMeGifF_m5lMeGifF-sql-expert-querygpt.md)
 - [SQL Expert (id: m5lMeGifF)](./ChatGPT/m5lMeGifF_SQL%20Expert.md)
 - [SQL Expert (id: m5lMeGifF)](./ChatGPT/m5lMeGifF_SQL_Expert.md)
 - [SQL Injection Demonstrator (id: PXL0wn3JR)](./ChatGPT/PXL0wn3JR_SQL_Injection_Demonstrator.md)
@@ -1445,6 +1450,7 @@ EA WIZARD (id: d6cGwK4Lu)](./ChatGPT/d6cGwK4Lu_EA_WIZARD.md)
 - [Yoga Coach (id: i37QxuOGy)](./ChatGPT/i37QxuOGy_Yoga_Coach.md)
 - [You Can't Have These Instructions (id: qxZF3PzBF)](./ChatGPT/qxZF3PzBF_You_Cant_Have_These_Instructions.md)
 - [You Knocked On the Wrong Door (id: 7hgRNsk4G)](./ChatGPT/7hgRNsk4G_You_Knocked_On_the_Wrong_Door.md)
+- [YouTube scriptwriting with Engaging Hooks. (id: NyCy8Ztzm)](./ChatGPT/NyCy8Ztzm_NyCy8Ztzm-youtube-scriptwriting-with-engaging-hooks.md)
 - [YouTube∑✏️ (id: GvcYCKPIH)](./ChatGPT/GvcYCKPIH_YouTube_Sigma_Edit.md)
 - [Your Boyfriend Wilbur Soot (id: HmrVnBO2Z)](./ChatGPT/HmrVnBO2Z_Your_Boyfriend_Wilbur_Soot.md)
 - [YoutubeSummariesGPT by Merlin (id: 1wExrKkCI)](./ChatGPT/1wExrKkCI_YoutubeSummariesGPT_by_Merlin.md)
