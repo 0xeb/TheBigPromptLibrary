@@ -235,7 +235,7 @@ def find_gptfile(keyword, verbose=True):
 
 
 def main():
-    parser = argparse.ArgumentParser(description='idxtool: A GPT indexing and searching tool for the CSP repo')
+    parser = argparse.ArgumentParser(description='idxtool: A GPT indexing and searching tool for the TBPL repo')
 
     parser.add_argument('--toc', nargs='?', const='', type=str, help='Rebuild the table of contents of custom GPTs')
     parser.add_argument('--find-gpt', type=str, help='Find a GPT file by its ID or full ChatGPT URL')
@@ -249,7 +249,9 @@ def main():
     args = parser.parse_args()
     
     # Check if no arguments were provided
-    if not any(vars(args).values()):
+    # For --toc, we need to check if it's None (not provided) vs '' (provided without value)
+    args_dict = vars(args)
+    if not any(v is not None and v is not False for v in args_dict.values()):
         parser.print_help()
         sys.exit(0)
     
