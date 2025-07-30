@@ -253,7 +253,7 @@ def main():
     args_dict = vars(args)
     if not any(v is not None and v is not False for v in args_dict.values()):
         parser.print_help()
-        sys.exit(0)
+        return 0
     
     if args.parse_gptfile:
         ok, err = parse_gpt_file(args.parse_gptfile)
@@ -266,13 +266,13 @@ def main():
     elif args.find_gpt:
         find_gptfile(args.find_gpt)
     elif args.template:
-        make_template(args.template)
+        ok, _ = make_template(args.template)
     elif args.rename:
         ok, err = rename_gpts()
         if not ok:
             print(err)
 
-    sys.exit(0 if ok else 1)
+    return 0 if ok else 1
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
