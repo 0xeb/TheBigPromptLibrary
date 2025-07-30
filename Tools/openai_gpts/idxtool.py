@@ -13,8 +13,9 @@ from urllib.parse import quote
 
 import gptparser
 from gptparser import enum_gpts, parse_gpturl, enum_gpt_files, get_prompts_path
+import gen_gpt_templ
 
-TOC_FILENAME = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'CustomInstructions/README.md'))
+TOC_FILENAME = os.path.abspath(os.path.join(get_prompts_path(), '..', 'README.md'))
 TOC_GPT_MARKER_LINE = '## ChatGPT GPT instructions'
 
 def rename_gpts():
@@ -146,38 +147,53 @@ def rebuild_toc(toc_out: str = '') -> Tuple[bool, str]:
         print(msg)
     return (ok, msg)
 
-def make_template(url, verbose=True):
-    """Creates an empty GPT template file from a ChatGPT URL"""
-    if not (gpt_info := parse_gpturl(url)):
-        msg = f"Invalid ChatGPT URL: '{url}'"
+def make_template(input_str, verbose=True):
+    """Creates a GPT template file from a ChatGPT URL/ID by downloading metadata"""
+    try:
+        # Process the input to handle URLs, IDs, conversation URLs, etc.
+        url, gpt_id = gen_gpt_templ.process_gpt_input(input_str)
+        
+        if verbose:
+            print(f"[PARSED] Full URL: {url}")
+            print(f"[PARSED] GPT ID: {gpt_id}")
+        
+        # Use gen_gpt_templ to generate the template with actual metadata
+        success, result = gen_gpt_templ.generate_template(url, debug=False, dump=False)
+        
+        if not success:
+            msg = f"Failed to generate template: {result}"
+            if verbose:
+                print(msg)
+            return (False, msg)
+        
+        # Extract the template content and gpt_id from the result
+        template_content = result.template
+        gpt_id = result.gpt_id
+        
+        # Save to the current working directory with the proper filename
+        filename = f"{gpt_id}.md"
+        
+        # Check if file already exists
+        if os.path.exists(filename):
+            msg = f"File '{filename}' already exists."
+            if verbose:
+                print(msg)
+            return (False, msg)
+        
+        # Write the template content
+        with open(filename, 'w', encoding='utf-8') as file:
+            file.write(template_content)
+        
+        msg = f"Created template '{filename}' for URL '{url}'"
+        if verbose:
+            print(msg)
+        return (True, msg)
+        
+    except Exception as e:
+        msg = f"Error creating template: {str(e)}"
         if verbose:
             print(msg)
         return (False, msg)
-
-    filename = os.path.join(get_prompts_path(), f"{gpt_info.id}_RENAMEME.md")
-    if os.path.exists(filename):
-        msg = f"File '{filename}' already exists."
-        if verbose:
-            print(msg)
-        return (False, msg)
-
-    with open(filename, 'w', encoding='utf-8') as file:
-        for field, info in gptparser.SUPPORTED_FIELDS.items():
-            if field == 'verif_status':
-                continue
-            if field == 'url':
-                file.write(f"{gptparser.FIELD_PREFIX} {info.display}: {url}\n\n")
-            elif field == 'instructions':
-                file.write(f"{gptparser.FIELD_PREFIX} {info.display}:\n```markdown\n{info.display} here...\n```\n\n")
-            elif field == 'logo':
-                file.write(f"{gptparser.FIELD_PREFIX} {info.display}: <img ...>\n\n")
-            else:
-                file.write(f"{gptparser.FIELD_PREFIX} {info.display}: {info.display} goes here...\n\n")
-
-    msg = f"Created template '{filename}' for URL '{url}'"
-    if verbose:
-        print(msg)
-    return (True, msg)
 
 def find_gptfile(keyword, verbose=True):
     """Find a GPT file by its ID or full ChatGPT URL
@@ -223,7 +239,7 @@ def main():
 
     parser.add_argument('--toc', nargs='?', const='', type=str, help='Rebuild the table of contents of custom GPTs')
     parser.add_argument('--find-gpt', type=str, help='Find a GPT file by its ID or full ChatGPT URL')
-    parser.add_argument('--template', type=str, help='Creates an empty GPT template file from a ChatGPT URL')
+    parser.add_argument('--template', type=str, help='Creates a GPT template file from a ChatGPT URL, GPT ID, or g-prefixed ID')
     parser.add_argument('--parse-gptfile', type=str, help='Parses a GPT file name')
     parser.add_argument('--rename', action='store_true', help='Rename the GPT file names to include their GPT ID')
 
@@ -231,6 +247,12 @@ def main():
     ok = True
 
     args = parser.parse_args()
+    
+    # Check if no arguments were provided
+    if not any(vars(args).values()):
+        parser.print_help()
+        sys.exit(0)
+    
     if args.parse_gptfile:
         ok, err = parse_gpt_file(args.parse_gptfile)
         if not ok:
