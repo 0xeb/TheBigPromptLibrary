@@ -3,34 +3,58 @@
     "configurations": [
         {
             "name": "idxtool-any",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/.scripts/idxtool.py",
+            "program": "${workspaceFolder}/Tools/openai_gpts/idxtool.py",
             "args": ["--template", "https://chat.openai.com/g/g-svehnI9xP-retro-adventures"],
             "console": "integratedTerminal"
         },
         {
             "name": "idxtool-Rebuild TOC",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/.scripts/idxtool.py",
+            "program": "${workspaceFolder}/Tools/openai_gpts/idxtool.py",
             "args": ["--toc"],
             "console": "integratedTerminal"
         },
         {
             "name": "idxtool-Find GPT File",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/.scripts/idxtool.py",
+            "program": "${workspaceFolder}/Tools/openai_gpts/idxtool.py",
             "args": ["--find-gptfile", "https://chat.openai.com/g/g-svehnI9xP-retro-adventures"],
             "console": "integratedTerminal"
         },
         {
             "name": "idxtool-Rename",
-            "type": "python",
+            "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/.scripts/idxtool.py",
+            "program": "${workspaceFolder}/Tools/openai_gpts/idxtool.py",
             "args": ["--rename"],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "gen_gpt_templ-Single GPT",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/Tools/openai_gpts/gen_gpt_templ.py",
+            "args": ["https://chat.openai.com/g/g-svehnI9xP-retro-adventures"],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "gen_gpt_templ-Response File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/Tools/openai_gpts/gen_gpt_templ.py",
+            "args": ["@gpt_list.txt"],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "gen_gpt_templ-Debug Mode",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/Tools/openai_gpts/gen_gpt_templ.py",
+            "args": ["g-svehnI9xP", "--debug", "--dump"],
             "console": "integratedTerminal"
         }
     ]
