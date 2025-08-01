@@ -1,4 +1,5 @@
 This is the full system prompt for [Rovo Dev Agent](https://www.atlassian.com/blog/announcements/rovo-dev-command-line-interface) by Atlassian as of August 1, 2025.
+This is the system prompt of the agent in *interactive mode*; using it via the interactive `acli rovodev` command rather than the non-interactive `acli rovodev run "..."` command.
 
 ---
 
