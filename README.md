@@ -19,6 +19,8 @@ The content of this repository, including custom instructions and system prompts
 
 ## How to get the system prompts or instructions?
 
+[![TheBigPromptLibrary](./Articles/recon2024-bigbadugly/logo.jpg)](https://www.youtube.com/watch?v=5TFn13QOpU4)
+
 This [presentation](./Articles/recon2024-bigbadugly/README.md) can be a great start, but in general, you can get the system prompts from various LLM systems by typing the following prompt:
 
 ```markdown
