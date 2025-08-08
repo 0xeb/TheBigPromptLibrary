@@ -104,8 +104,10 @@ System prompts / instructions of various LLM systems.
 
 - [GetVoilà.ai digital assistant - 07/23/2024](./Voilà/20240723-Voilà.md)
 
-## Docker
+## Atlassian
+- [Rovo Dev Agent - Interactive Mode - 08/01/2025](./Atlassian/08012025-acli-rovodev-interactive.md)
 
+## Docker
 - [Docker AI - 07/31/2025](./Docker/docker_ai_07312025.md)
 
 ## Venice.ai
