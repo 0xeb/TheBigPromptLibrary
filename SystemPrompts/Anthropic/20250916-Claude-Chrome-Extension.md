@@ -2,6 +2,8 @@
 
 I have prompted the [Claude Chrome Extension](https://support.claude.com/en/articles/12306336-claude-for-chrome-release-notes) and asked it about its instructions. I don't think these are verbatim instructions, but at least they show the gist of the instructions scope and the tools used.
 
+Check this [video](https://www.youtube.com/watch?v=OdYF9XMwY7I) to see it in action.
+
 ## Table of Contents
 
 - [Instructions](#instructions)
