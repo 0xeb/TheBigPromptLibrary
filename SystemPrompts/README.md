@@ -37,6 +37,8 @@ System prompts / instructions of various LLM systems.
 - [GPT Builder](./OpenAI/gpt_builder.md)
 
 ## Anthropic
+- [Claude Sonnet 4.5- 09/29/2025](./Anthropic/09292025-Claude-Sonnet4.5.md) (Official)
+- [Claude Opus 4.1 - 08/05/2025](./Anthropic/08052025-Claude-Opus4.1.md) (Official)
 - [Claude Chrome Web Extension - 09/16/2025](./Anthropic/20250916-Claude-Chrome-Extension.md)
 - [Claude Sonnet 4- 06/03/2025](./Anthropic/20250603-Claude-Sonnet4.md)
 - [Claude 3.7 Sonnet - 02/25/2025](./Anthropic/20250225-Claude3.7-Sonnet.md)
