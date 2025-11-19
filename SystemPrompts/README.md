@@ -61,6 +61,7 @@ System prompts / instructions of various LLM systems.
 - [Perplexity.ai - 03/20/2024](./Perplexity.ai/20240320-Perplexity.md)
 
 ## Google
+- [Google Antigravity - 11/18/2025](./Google/11182025-Antigravity.md)
 - [Gemini 2.5 Flash - 11/12/2025](./Google/11122025-gemini-2.5-flash.md)
 - [Notebook LM - 11/10/2025](./Google/11102025-notebooklm.md)
 - [Jules - 08/04/2025](./Google/08042025-Jules.md) - UNVERIFIED
