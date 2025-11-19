@@ -162,7 +162,7 @@ See: [https://augmentcode.com/](https://www.augmentcode.com/blog/meet-augment-ag
 
 See: [https://brave.com/](https://brave.com/)
 
-- [Leo AI Assistant - 11/10/2025](./brave/11102025-leo.md)
+- [Leo AI Assistant - 11/10/2025](./Brave/11102025-leo.md)
 
 ## DeepSeek
 
@@ -180,7 +180,7 @@ See: [https://qwenlm.github.io/](https://qwenlm.github.io/)
 
 See: [https://quillbot.com/](https://quillbot.com/)
 
-- [Quillbot AI - 11/06/2025](./quillbot/11062025-Quillbot.md)
+- [Quillbot AI - 11/06/2025](./Quillbot/11062025-Quillbot.md)
 
 ## Miscellanous
 - [Cluely - 06/16/2026](./Misc/06162026-Cluely.md)
