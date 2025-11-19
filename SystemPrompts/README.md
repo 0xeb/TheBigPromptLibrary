@@ -8,6 +8,7 @@ System prompts / instructions of various LLM systems.
 - [ChatGPT 4.1 Mini - System Prompt - 06/29/2025](./OpenAI/gpt41_mini_06292025.md)
 - [ChatGPT 4.1 - System Prompt - 06/29/2025](./OpenAI/gpt41_06292025.md)
 - [ChatGPT 4.5 - System Prompt - 06/29/2025](./OpenAI/gpt45_06292025.md)
+- [ChatGPT 5 - System Prompt - 10/27/2025](./OpenAI/10272025-gpt5.md)
 - [ChatGPT - Tasks and Automation - 03/27/2025](./OpenAI/gpt4o_tasks_and_automation_03272025.md)
 - [ChatGPT 4o - with image_gen tool - 03/27/2025](./OpenAI/gpt4o_03272025.md)
 - [ChatGPT 4.5 - System Prompt - 03/05/2025](./OpenAI/gpt45_system_prompt_03052025.md)
@@ -37,6 +38,7 @@ System prompts / instructions of various LLM systems.
 - [GPT Builder](./OpenAI/gpt_builder.md)
 
 ## Anthropic
+- [Claude Sonnet 4.5 - 10/28/2025](./Anthropic/10282025-Claude-Sonnet4.5.md)
 - [Claude Sonnet 4.5- 09/29/2025](./Anthropic/09292025-Claude-Sonnet4.5.md) (Official)
 - [Claude Opus 4.1 - 08/05/2025](./Anthropic/08052025-Claude-Opus4.1.md) (Official)
 - [Claude Chrome Web Extension - 09/16/2025](./Anthropic/20250916-Claude-Chrome-Extension.md)
@@ -59,6 +61,8 @@ System prompts / instructions of various LLM systems.
 - [Perplexity.ai - 03/20/2024](./Perplexity.ai/20240320-Perplexity.md)
 
 ## Google
+- [Gemini 2.5 Flash - 11/12/2025](./Google/11122025-gemini-2.5-flash.md)
+- [Notebook LM - 11/10/2025](./Google/11102025-notebooklm.md)
 - [Jules - 08/04/2025](./Google/08042025-Jules.md) - UNVERIFIED
 - [Gemini 2.5 Pro - IMO Solver and Verifier Prompts - 07/23/2025](./Google/07232025-gemini-2.5-pro-imo.md)
 - [Gemini 2.0 Flash](./Google/gemini-2.0-flash-03072025.md)
@@ -88,6 +92,10 @@ System prompts / instructions of various LLM systems.
 
 ## xAI
 
+- [Grok 4 - Expert - 10/30/2025](./xAI/10302025-Grok4-Expert.md)
+- [Grok 4 - Fast - 10/30/2025](./xAI/10302025-Grok4-Fast.md)
+- [Grok 4 - Fast Beta - 10/30/2025](./xAI/10302025-Grok4-Fast-Beta.md)
+- [Grok 4 - 10/27/2025](./xAI/10272025-Grok4.md)
 - [Grok 2 (fun)](./xAI/12122024-Grok2-fun.md)
 - [Grok 2](./xAI/12122024-Grok2.md)
 - [Grok 2 mini (beta) - 08/21/2024](./xAI/08212024-Grok2.md)
@@ -148,6 +156,30 @@ See: [https://sleephq.com/](https://sleephq.com/)
 See: [https://augmentcode.com/](https://www.augmentcode.com/blog/meet-augment-agent)
 
 - [Augment Code - 07/24/2025](./Augment%20Code/20250724-augmentcode.md)
+
+## Brave
+
+See: [https://brave.com/](https://brave.com/)
+
+- [Leo AI Assistant - 11/10/2025](./brave/11102025-leo.md)
+
+## DeepSeek
+
+See: [https://www.deepseek.com/](https://www.deepseek.com/)
+
+- [DeepSeek V2 - 10/29/2025](./DeepSeek/10292025-DeepSeek-V2.md)
+
+## QWEN
+
+See: [https://qwenlm.github.io/](https://qwenlm.github.io/)
+
+- [Qwen3-VL-235B-A22B - 10/27/2025](./QWEN/10272025-Qwen3-VL-235B-A22B.md)
+
+## Quillbot
+
+See: [https://quillbot.com/](https://quillbot.com/)
+
+- [Quillbot AI - 11/06/2025](./quillbot/11062025-Quillbot.md)
 
 ## Miscellanous
 - [Cluely - 06/16/2026](./Misc/06162026-Cluely.md)
