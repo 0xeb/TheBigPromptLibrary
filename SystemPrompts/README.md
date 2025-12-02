@@ -78,6 +78,7 @@ System prompts / instructions of various LLM systems.
 - [Meta.ai / llama3 - 04/18/2024](./Meta.ai/metaai_llama3-04182024.md)
 
 ## Copilot
+- [Microsoft Enterprise Copilot (GPT-5) - 12/02/2025 - Partial](./Copilot/microsoft_copilot_enterprise_12022025.md)
 - [Microsoft Copilot (Website) - 09/19/2025](./Copilot/microsoft_copilot_website_09192025.md)
 - [Microsoft Copilot (Website) - 02/25/2025](./Copilot/microsoft_copilot_website_02252025.md)
 - [Microsoft Copilot (Desktop App) - 11/13/2024](./Copilot/microsoft_copilot_desktop_11132024.md)
