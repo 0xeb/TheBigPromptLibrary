@@ -35,7 +35,7 @@ python Tools/openai_gpts/gen_gpt_templ.py <URL_OR_ID> --dump
 
 ## File Naming Conventions
 
-- **SystemPrompts**: `MMDDYYYY-ProviderName.md` or `provider_feature_MMDDYYYY.md`
+- **SystemPrompts**: `YYYYMMDD-ProviderName.md` or `provider_feature_YYYYMMDD.md`
 - **CustomInstructions GPTs**: `{gpt_id}.md` with GPT metadata in frontmatter-style headers
 
 ## Contributing New Prompts

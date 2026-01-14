@@ -8,7 +8,7 @@ System prompts / instructions of various LLM systems.
 - [ChatGPT 4.1 Mini - System Prompt - 06/29/2025](./OpenAI/gpt41_mini_06292025.md)
 - [ChatGPT 4.1 - System Prompt - 06/29/2025](./OpenAI/gpt41_06292025.md)
 - [ChatGPT 4.5 - System Prompt - 06/29/2025](./OpenAI/gpt45_06292025.md)
-- [ChatGPT 5 - System Prompt - 10/27/2025](./OpenAI/10272025-gpt5.md)
+- [ChatGPT 5 - System Prompt - 10/27/2025](./OpenAI/20251027-gpt5.md)
 - [ChatGPT - Tasks and Automation - 03/27/2025](./OpenAI/gpt4o_tasks_and_automation_03272025.md)
 - [ChatGPT 4o - with image_gen tool - 03/27/2025](./OpenAI/gpt4o_03272025.md)
 - [ChatGPT 4.5 - System Prompt - 03/05/2025](./OpenAI/gpt45_system_prompt_03052025.md)
@@ -38,10 +38,11 @@ System prompts / instructions of various LLM systems.
 - [GPT Builder](./OpenAI/gpt_builder.md)
 
 ## Anthropic
-- [Claude Opus 4.5 - Soul Document - 12/02/2025](./Anthropic/12022025-claude-opus4.5-soul-document.md)
-- [Claude Sonnet 4.5 - 10/28/2025](./Anthropic/10282025-Claude-Sonnet4.5.md)
-- [Claude Sonnet 4.5- 09/29/2025](./Anthropic/09292025-Claude-Sonnet4.5.md) (Official)
-- [Claude Opus 4.1 - 08/05/2025](./Anthropic/08052025-Claude-Opus4.1.md) (Official)
+- [Claude Cowork - 01/12/2026](./Anthropic/20260112-Claude-Cowork.md)
+- [Claude Opus 4.5 - Soul Document - 12/02/2025](./Anthropic/20251202-Claude-Opus4.5-Soul-Document.md)
+- [Claude Sonnet 4.5 - 10/28/2025](./Anthropic/20251028-Claude-Sonnet4.5.md)
+- [Claude Sonnet 4.5 - 09/29/2025](./Anthropic/20250929-Claude-Sonnet4.5.md) (Official)
+- [Claude Opus 4.1 - 08/05/2025](./Anthropic/20250805-Claude-Opus4.1.md) (Official)
 - [Claude Chrome Web Extension - 09/16/2025](./Anthropic/20250916-Claude-Chrome-Extension.md)
 - [Claude Sonnet 4- 06/03/2025](./Anthropic/20250603-Claude-Sonnet4.md)
 - [Claude 3.7 Sonnet - 02/25/2025](./Anthropic/20250225-Claude3.7-Sonnet.md)
@@ -55,18 +56,18 @@ System prompts / instructions of various LLM systems.
 
 ## Perplexity.ai
 
-- [Perplexity.ai - Pro - System Prompt - 12/12/2024](./Perplexity.ai/12122024-Perplexity-Pro.md)
+- [Perplexity.ai - Pro - System Prompt - 12/12/2024](./Perplexity.ai/20241212-Perplexity-Pro.md)
 - [Perplexity.ai macOS Desktop App - System Prompt - 10/23/2024](./Perplexity.ai/20241024-Perplexity-Desktop-App.md)
 - [Perplexity.ai Spaces - 10/18/2024](./Perplexity.ai/20241018-Perplexity-Spaces.md)
 - [Perplexity.ai - 09/04/2024](./Perplexity.ai/20240904-Perplexity.md)
 - [Perplexity.ai - 03/20/2024](./Perplexity.ai/20240320-Perplexity.md)
 
 ## Google
-- [Google Antigravity - 11/18/2025](./Google/11182025-Antigravity.md)
-- [Gemini 2.5 Flash - 11/12/2025](./Google/11122025-gemini-2.5-flash.md)
-- [Notebook LM - 11/10/2025](./Google/11102025-notebooklm.md)
-- [Jules - 08/04/2025](./Google/08042025-Jules.md) - UNVERIFIED
-- [Gemini 2.5 Pro - IMO Solver and Verifier Prompts - 07/23/2025](./Google/07232025-gemini-2.5-pro-imo.md)
+- [Google Antigravity - 11/18/2025](./Google/20251118-Antigravity.md)
+- [Gemini 2.5 Flash - 11/12/2025](./Google/20251112-gemini-2.5-flash.md)
+- [Notebook LM - 11/10/2025](./Google/20251110-notebooklm.md)
+- [Jules - 08/04/2025](./Google/20250804-Jules.md) - UNVERIFIED
+- [Gemini 2.5 Pro - IMO Solver and Verifier Prompts - 07/23/2025](./Google/20250723-gemini-2.5-pro-imo.md)
 - [Gemini 2.0 Flash](./Google/gemini-2.0-flash-03072025.md)
 - [Gemini 2.0 Flash Thinking with Tools (gemini.google.com)](./Google/gemini-2.0-flash-thinking-gemini-app-03072025.md)
 - [Gemini Advanced Pro 1.5](./Google/gemini-advanced-pro-1.5-12122024.md)
@@ -79,7 +80,7 @@ System prompts / instructions of various LLM systems.
 - [Meta.ai / llama3 - 04/18/2024](./Meta.ai/metaai_llama3-04182024.md)
 
 ## Copilot
-- [Microsoft Enterprise Copilot (GPT-5) - 12/02/2025 - Partial](./Copilot/microsoft_copilot_enterprise_12022025.md)
+- [Microsoft Enterprise Copilot (GPT-5) - 12/02/2025 - Partial](./Copilot/microsoft_copilot_enterprise_20251202.md)
 - [Microsoft Copilot (Website) - 09/19/2025](./Copilot/microsoft_copilot_website_09192025.md)
 - [Microsoft Copilot (Website) - 02/25/2025](./Copilot/microsoft_copilot_website_02252025.md)
 - [Microsoft Copilot (Desktop App) - 11/13/2024](./Copilot/microsoft_copilot_desktop_11132024.md)
@@ -95,14 +96,14 @@ System prompts / instructions of various LLM systems.
 
 ## xAI
 
-- [Grok 4 - Expert - 10/30/2025](./xAI/10302025-Grok4-Expert.md)
-- [Grok 4 - Fast - 10/30/2025](./xAI/10302025-Grok4-Fast.md)
-- [Grok 4 - Fast Beta - 10/30/2025](./xAI/10302025-Grok4-Fast-Beta.md)
-- [Grok 4 - 10/27/2025](./xAI/10272025-Grok4.md)
-- [Grok 2 (fun)](./xAI/12122024-Grok2-fun.md)
-- [Grok 2](./xAI/12122024-Grok2.md)
-- [Grok 2 mini (beta) - 08/21/2024](./xAI/08212024-Grok2.md)
-- [Grok - 12/14/2023](./xAI/12142023-Grok.md)
+- [Grok 4 - Expert - 10/30/2025](./xAI/20251030-Grok4-Expert.md)
+- [Grok 4 - Fast - 10/30/2025](./xAI/20251030-Grok4-Fast.md)
+- [Grok 4 - Fast Beta - 10/30/2025](./xAI/20251030-Grok4-Fast-Beta.md)
+- [Grok 4 - 10/27/2025](./xAI/20251027-Grok4.md)
+- [Grok 2 (fun)](./xAI/20241212-Grok2-fun.md)
+- [Grok 2](./xAI/20241212-Grok2.md)
+- [Grok 2 mini (beta) - 08/21/2024](./xAI/20240821-Grok2.md)
+- [Grok - 12/14/2023](./xAI/20231214-Grok.md)
 
 ## Databricks
 
@@ -118,14 +119,14 @@ System prompts / instructions of various LLM systems.
 - [GetVoilà.ai digital assistant - 07/23/2024](./Voilà/20240723-Voilà.md)
 
 ## Atlassian
-- [Rovo Dev Agent - Interactive Mode - 08/01/2025](./Atlassian/08012025-acli-rovodev-interactive.md)
+- [Rovo Dev Agent - Interactive Mode - 08/01/2025](./Atlassian/20250801-acli-rovodev-interactive.md)
 
 ## Docker
-- [Docker AI - 07/31/2025](./Docker/docker_ai_07312025.md)
+- [Docker AI - 07/31/2025](./Docker/docker_ai_20250731.md)
 
 ## Venice.ai
 
-- [Venice.ai - 07/24/2024](./Venice.ai/07242024-Venice.md)
+- [Venice.ai - 07/24/2024](./Venice.ai/20240724-Venice.md)
 
 ## Cursor.com
 
@@ -146,13 +147,13 @@ See: [https://twitter.com/hume_ai](https://twitter.com/hume_ai)
 
 See: [https://proton.me/](https://proton.me/)
 
-- [Proton's Lumo AI - 07/23/2025](./Proton/07232025-Lumo.md)
+- [Proton's Lumo AI - 07/23/2025](./Proton/20250723-Lumo.md)
 
 ## SleepHQ
 
 See: [https://sleephq.com/](https://sleephq.com/)
 
-- [Darth Assistant - 07/28/2025](./SleepHQ/07282025-Darth-Assistant.md)
+- [Darth Assistant - 07/28/2025](./SleepHQ/20250728-Darth-Assistant.md)
 
 ## Augment Code
 
@@ -164,30 +165,30 @@ See: [https://augmentcode.com/](https://www.augmentcode.com/blog/meet-augment-ag
 
 See: [https://brave.com/](https://brave.com/)
 
-- [Leo AI Assistant - 11/10/2025](./Brave/11102025-leo.md)
+- [Leo AI Assistant - 11/10/2025](./Brave/20251110-leo.md)
 
 ## DeepSeek
 
 See: [https://www.deepseek.com/](https://www.deepseek.com/)
 
-- [DeepSeek V2 - 10/29/2025](./DeepSeek/10292025-DeepSeek-V2.md)
+- [DeepSeek V2 - 10/29/2025](./DeepSeek/20251029-DeepSeek-V2.md)
 
 ## QWEN
 
 See: [https://qwenlm.github.io/](https://qwenlm.github.io/)
 
-- [Qwen3-VL-235B-A22B - 10/27/2025](./QWEN/10272025-Qwen3-VL-235B-A22B.md)
+- [Qwen3-VL-235B-A22B - 10/27/2025](./QWEN/20251027-Qwen3-VL-235B-A22B.md)
 
 ## Quillbot
 
 See: [https://quillbot.com/](https://quillbot.com/)
 
-- [Quillbot AI - 11/06/2025](./Quillbot/11062025-Quillbot.md)
+- [Quillbot AI - 11/06/2025](./Quillbot/20251106-Quillbot.md)
 
 ## Miscellanous
-- [Cluely - 06/16/2026](./Misc/06162026-Cluely.md)
-- [Vogent.AI - Trump voice - 04/08/2025](./Misc/04082025-vogent_trump.md)
-- [Limitless.ai - 03/17/2025](./Misc/03172025-Limitless_AI.md)
-- [Manus.im - 03/09/2025](./Misc/03092025-Manus.md)
-- [Providence/Swedish Hospital - Grace chatbot - 12/18/2024](./Misc/12182024-providence-chatbot-grace.md)
-- [Codium's Windsurf Editor - 10/18/2024](./Misc/12082024-codium-windsurf-editor.md)
+- [Cluely - 06/16/2026](./Misc/20260616-Cluely.md)
+- [Vogent.AI - Trump voice - 04/08/2025](./Misc/20250408-vogent_trump.md)
+- [Limitless.ai - 03/17/2025](./Misc/20250317-Limitless_AI.md)
+- [Manus.im - 03/09/2025](./Misc/20250309-Manus.md)
+- [Providence/Swedish Hospital - Grace chatbot - 12/18/2024](./Misc/20241218-providence-chatbot-grace.md)
+- [Codium's Windsurf Editor - 12/08/2024](./Misc/20241208-codium-windsurf-editor.md)
