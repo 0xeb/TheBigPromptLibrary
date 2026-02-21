@@ -13,6 +13,15 @@ The Big Prompt Library repository is a collection of various system prompts, cus
 - [How to get the system prompts or instructions](#how-to-get-the-system-prompts-or-instructions)
 - [Learning resources](#learning-resources-and-sites)
 
+## Articles
+
+| Date | Article | Description |
+|------|---------|-------------|
+| 06/29/2024 | [A Tale of Reverse Engineering 1001 GPTs: The good, the bad And the ugly](./Articles/recon2024-bigbadugly/README.md) | REcon 2024 talk — reverse engineering OpenAI's custom GPTs, security findings, and ethical implications |
+| 08/23/2024 | [List of Python packages in ChatGPT code interpreter sandbox](./Articles/chatgpt-sandbox/chatgpt-code-python-pkglist-08232024.md) | Complete inventory of Python packages available in ChatGPT's sandbox |
+| 08/23/2024 | [List of Linux packages in ChatGPT code interpreter sandbox](./Articles/chatgpt-sandbox/chatgpt-code-pkglist-08232024.md) | Full list of Linux system packages installed in the sandbox |
+| 04/29/2024 | [ChatGPT: Memory and how it works](./Articles/chatgpt-bio-tool-and-memory/chatgpt-bio-and-memory.md) | How OpenAI's "bio" tool persists memory across conversations |
+
 ## Disclaimer
 
 The content of this repository, including custom instructions and system prompts, is intended solely for learning and informational use. It's designed to help improve prompt writing abilities and inform about the risks of prompt injection security. We strictly oppose using this information for any unlawful purposes. We are not liable for any improper use of the information shared in this repository.
