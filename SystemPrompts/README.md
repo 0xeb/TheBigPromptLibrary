@@ -80,6 +80,7 @@ System prompts / instructions of various LLM systems.
 - [Meta.ai / llama3 - 04/18/2024](./Meta.ai/metaai_llama3-04182024.md)
 
 ## Copilot
+- [GitHub Copilot CLI - 02/21/2026](./Copilot/github_copilot_cli_20260221.md)
 - [GitHub Copilot CLI - 01/21/2026](./Copilot/github_copilot_cli_20260121.md)
 - [Microsoft Enterprise Copilot (GPT-5) - 12/02/2025 - Partial](./Copilot/microsoft_copilot_enterprise_20251202.md)
 - [Microsoft Copilot (Website) - 09/19/2025](./Copilot/microsoft_copilot_website_09192025.md)
