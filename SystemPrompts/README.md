@@ -189,6 +189,7 @@ See: [https://quillbot.com/](https://quillbot.com/)
 
 ## Miscellanous
 - [Cluely - 06/16/2026](./Misc/20260616-Cluely.md)
+- [WFGY Core 2.0 - Stable reasoning system prompt - 02/23/2026](./Misc/20260223-WFGY-Core2.md)
 - [Vogent.AI - Trump voice - 04/08/2025](./Misc/20250408-vogent_trump.md)
 - [Limitless.ai - 03/17/2025](./Misc/20250317-Limitless_AI.md)
 - [Manus.im - 03/09/2025](./Misc/20250309-Manus.md)
