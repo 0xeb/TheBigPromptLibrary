@@ -187,6 +187,12 @@ See: [https://quillbot.com/](https://quillbot.com/)
 
 - [Quillbot AI - 11/06/2025](./Quillbot/20251106-Quillbot.md)
 
+## Xiaomi
+
+See: [https://github.com/XiaomiMiMo](https://github.com/XiaomiMiMo)
+
+- [MiCode - 06/14/2026](./Xiaomi/20260614-MiCode.md)
+
 ## Miscellanous
 - [Cluely - 06/16/2026](./Misc/20260616-Cluely.md)
 - [Vogent.AI - Trump voice - 04/08/2025](./Misc/20250408-vogent_trump.md)
