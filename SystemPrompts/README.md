@@ -207,6 +207,12 @@ See: [https://opencode.ai/](https://opencode.ai/)
 - [opencode - muse-spark-1.2 - 09/02/2026](./OpenCode/20260902-opencode-muse-spark-1.2.md)
 - [opencode - gpt-5.6-sol - 09/02/2026](./OpenCode/20260902-opencode-gpt5.6-sol.md)
 
+## MiniMax
+
+See: [https://www.minimax.io/](https://www.minimax.io/)
+
+- [MiniMax Code - three prompt modes - 09/20/2026](./MiniMax/minimax_code_20260920/README.md) - `tui`, `coding` and `work`, captured off the wire; one binary, three prompts, the same 18 tools
+
 ## Miscellanous
 - [Cluely - 06/16/2026](./Misc/20260616-Cluely.md)
 - [Vogent.AI - Trump voice - 04/08/2025](./Misc/20250408-vogent_trump.md)
