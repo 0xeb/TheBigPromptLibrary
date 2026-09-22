@@ -207,6 +207,12 @@ See: [https://opencode.ai/](https://opencode.ai/)
 - [opencode - muse-spark-1.2 - 09/02/2026](./OpenCode/20260902-opencode-muse-spark-1.2.md)
 - [opencode - gpt-5.6-sol - 09/02/2026](./OpenCode/20260902-opencode-gpt5.6-sol.md)
 
+## Xiaomi
+
+See: [https://github.com/XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)
+
+- [MiMo Code - default system prompt - 09/22/2026](./Xiaomi/mimocode_20260922/README.md) - official open-source base prompt; runtime additions not included
+
 ## Miscellanous
 - [Cluely - 06/16/2026](./Misc/20260616-Cluely.md)
 - [Vogent.AI - Trump voice - 04/08/2025](./Misc/20250408-vogent_trump.md)
