@@ -207,6 +207,12 @@ See: [https://opencode.ai/](https://opencode.ai/)
 - [opencode - muse-spark-1.2 - 09/02/2026](./OpenCode/20260902-opencode-muse-spark-1.2.md)
 - [opencode - gpt-5.6-sol - 09/02/2026](./OpenCode/20260902-opencode-gpt5.6-sol.md)
 
+## Cline
+
+See: [https://github.com/cline/cline](https://github.com/cline/cline)
+
+- [Cline Act and YOLO prompt templates - 09/22/2026](./Cline/20260922-cline/README.md) - official Apache-2.0 templates; runtime placeholders retained
+
 ## Miscellanous
 - [Cluely - 06/16/2026](./Misc/20260616-Cluely.md)
 - [Vogent.AI - Trump voice - 04/08/2025](./Misc/20250408-vogent_trump.md)
