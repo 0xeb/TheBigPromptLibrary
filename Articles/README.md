@@ -11,6 +11,10 @@ Articles by **Elias Bachaalany** — [@0xeb](https://github.com/0xeb) on GitHub 
 - 06/29/2024 - [A Tale of Reverse Engineering 1001 GPTs: The good, the bad And the ugly](./recon2024-bigbadugly/README.md)
 - 04/29/2024 - [ChatGPT: Memory and how it works](./chatgpt-bio-tool-and-memory/chatgpt-bio-and-memory.md)
 
+# Perplexity
+
+- 10/23/2026 - [Full system inventory of the Perplexity Computer VM](./perplexity-sandbox/perplexity-computer-vm-env-10232026.md)
+
 # Claude Code
 
 - 08/09/2026 - [When "Just Do It" Isn't Enough: Invoking Claude Code Tools by Name](./claude-code-tools/README.md)
