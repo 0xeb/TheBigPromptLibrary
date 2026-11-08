@@ -219,6 +219,12 @@ See: [https://github.com/XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiM
 
 - [MiMo Code - default system prompt - 09/22/2026](./Xiaomi/mimocode_20260922/README.md) - official open-source base prompt; runtime additions not included
 
+## MiniMax
+
+See: [https://www.minimax.io/](https://www.minimax.io/)
+
+- [MiniMax Code - three prompt modes - 09/20/2026](./MiniMax/minimax_code_20260920/README.md) - `tui`, `coding` and `work`, captured off the wire; one binary, three prompts, the same 18 tools
+
 ## Miscellanous
 - [Cluely - 06/16/2026](./Misc/20260616-Cluely.md)
 - [Vogent.AI - Trump voice - 04/08/2025](./Misc/20250408-vogent_trump.md)
