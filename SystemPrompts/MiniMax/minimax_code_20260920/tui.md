@@ -94,7 +94,7 @@ You have been invoked in the following environment:
 - Model: deepseek/deepseek-v4-flash-free
 - appLocale: zh-CN
 - region: cn
-- activeDataDir: {{CWD}}\.orca\runs\{{RUN_ID}}\mcode-data
+- activeDataDir: {{DATA_DIR}}
 
 Use the working directory unless the user specifies another path.
 Resolve runtime-owned files (config, MCP configuration, agents, skills, memory, logs) from activeDataDir; older paths in context may belong to an inactive profile. This does not override workspace files, external skill paths, or explicit user paths.

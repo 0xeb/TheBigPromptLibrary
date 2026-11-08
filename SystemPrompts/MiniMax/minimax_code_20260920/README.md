@@ -39,7 +39,9 @@ capture deliberately used none.
 ## Scrubbing
 
 Home directory, username, git identity, hostnames and uuids are replaced with `{{PLACEHOLDER}}`
-tokens. No keys, tokens or session ids. Nothing else is reworded, reordered or trimmed.
+tokens. No keys, tokens or session ids. The `activeDataDir` value, which pointed into the capture
+tool's own run folder, is redacted to `{{DATA_DIR}}`, so each file is a few dozen characters shorter
+than the counts above. Nothing else is reworded, reordered or trimmed.
 
 The capture was taken from a directory that is a git repository and has no MCP config: the harness
 is told whether it is in one, and an MCP config would add those servers' tools to the tool list.
