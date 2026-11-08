@@ -213,6 +213,12 @@ See: [https://github.com/cline/cline](https://github.com/cline/cline)
 
 - [Cline Act and YOLO prompt templates - 09/22/2026](./Cline/cline_prompts_20260922/README.md) - official Apache-2.0 templates; runtime placeholders retained
 
+## Xiaomi
+
+See: [https://github.com/XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)
+
+- [MiMo Code - default system prompt - 09/22/2026](./Xiaomi/mimocode_20260922/README.md) - official open-source base prompt; runtime additions not included
+
 ## Miscellanous
 - [Cluely - 06/16/2026](./Misc/20260616-Cluely.md)
 - [Vogent.AI - Trump voice - 04/08/2025](./Misc/20250408-vogent_trump.md)
