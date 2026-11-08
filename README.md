@@ -18,6 +18,7 @@ The Big Prompt Library repository is a collection of various system prompts, cus
 
 | Date | Article | Description |
 |------|---------|-------------|
+| 10/23/2026 | [Full system inventory of the Perplexity Computer VM](./Articles/perplexity-sandbox/perplexity-computer-vm-env-10232026.md) | CPU, memory, disk, cgroup limits, desktop stack, and full package lists of the Linux microVM behind Perplexity Computer |
 | 08/09/2026 | [When "Just Do It" Isn't Enough: Invoking Claude Code Tools by Name](./Articles/claude-code-tools/README.md) | A guide to Claude Code's tools and when to invoke them by name, with a full typed parameter reference |
 | 08/06/2026 | [Full system inventory of the ChatGPT Work VM](./Articles/chatgpt-sandbox/chatgpt-work-vm-env-08062026.md) | CPU, memory, disk, limits, and installed toolchains of the Linux VM behind ChatGPT Work |
 | 07/29/2026 | [What ChatGPT Work Can Really Do: Reverse Engineering a Binary From My Phone, On a Walk](./Articles/reverse-engineering-with-chatgpt-work/README.md) | ChatGPT Work cloned GhidraSQL, built Ghidra headless, worked around a hostile sandbox, and recovered compiling C from a stripped binary — driven from a phone |
