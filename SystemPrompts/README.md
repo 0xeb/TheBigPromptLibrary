@@ -211,7 +211,7 @@ See: [https://opencode.ai/](https://opencode.ai/)
 
 See: [https://github.com/cline/cline](https://github.com/cline/cline)
 
-- [Cline Act and YOLO prompt templates - 09/22/2026](./Cline/20260922-cline/README.md) - official Apache-2.0 templates; runtime placeholders retained
+- [Cline Act and YOLO prompt templates - 09/22/2026](./Cline/cline_prompts_20260922/README.md) - official Apache-2.0 templates; runtime placeholders retained
 
 ## Miscellanous
 - [Cluely - 06/16/2026](./Misc/20260616-Cluely.md)

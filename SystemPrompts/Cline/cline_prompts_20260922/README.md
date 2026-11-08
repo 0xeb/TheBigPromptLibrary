@@ -8,3 +8,8 @@
 - **Note**: The prompt bodies below are extracted from the official template string literals. Runtime placeholders such as {{CLINE_RULES}}, {{CLINE_METADATA}}, and environment fields are preserved. Tool, browser, and user-specific context are not included.
 
 The prompt bodies are separated by mode and are not summaries.
+
+## Files
+
+- [act.md](./act.md) - Act mode system prompt (`CLINE_SYSTEM_PROMPT_ACT_MODE`)
+- [yolo.md](./yolo.md) - YOLO mode system prompt (`CLINE_SYSTEM_PROMPT_YOLO_MODE`)
