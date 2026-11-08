@@ -8,3 +8,7 @@
 - **Note**: This is the static base prompt. MiMo Code appends runtime environment, model, vision-capability, skills, and tool context in packages/opencode/src/session/system.ts.
 
 The prompt file below is copied byte-for-byte from the official source at the commit above.
+
+## Files
+
+- [default.txt](./default.txt) - static base system prompt (`packages/opencode/src/session/prompt/default.txt`)
