@@ -74,6 +74,16 @@ Source files are in scope when they are what the *model* sees - tool and type de
 
 Sandbox and workspace dumps leak. Before opening a pull request, check your files for API keys, tokens, session identifiers, real email addresses, and any workspace content belonging to real people. Redact it, and note the redaction in the entry.
 
+## No advertising
+
+Entries document other people's prompts; they are not a place to promote your own work. Do not add links to, install instructions for, or "regenerate with" steps using your own (or your employer's) tools, products, services, or prompt archives.
+
+- Describe the extraction method generically ("a local proxy recorded the request", "read from the shipped bundle") - that is what `Note` asks for.
+- For the `Source` line, link the vendor's own public source (their repo, package, docs) rather than a copy hosted by the capture tool.
+- The `Contributed by` link to your GitHub profile is fine and expected.
+
+Pull requests that promote a contributor's product are either closed or merged with the promotion removed.
+
 ## Screenshots
 
 Evidence screenshots are welcome next to the prompt they support (see `SystemPrompts/xAI/08212024-Grok2-fun.png`). Keep them small and crop out anything personal.

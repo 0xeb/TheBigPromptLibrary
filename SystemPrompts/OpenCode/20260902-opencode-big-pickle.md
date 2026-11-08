@@ -2,8 +2,8 @@
 
 - **Contributed by**: [xizhuomengcontin](https://github.com/xizhuomengcontin)
 - **Contributed on**: 09/02/2026
-- **Source**: opencode `run` mode, model `big-pickle`, chat-completions dialect. Public copy: [prompt/OPENCODE/big-pickle-system-prompt.md](https://github.com/Continuum-AI-Corp/OrcaReplay/blob/main/prompt/OPENCODE/big-pickle-system-prompt.md)
-- **Note**: Captured on the wire rather than extracted from the shipped bundle. A local proxy in front of the model API recorded the request the harness actually sent, so this is the prompt as the harness assembled it at runtime on one machine, including the blocks that only exist at runtime. The proxy is [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay). Machine-identifying strings - home directory, username, git name and email, gateway host, OS build, uuids, hex runs of 32 or more - are replaced with `{PLACEHOLDER}` tokens by a scrubber that aborts the capture rather than write a file if anything identifying survives the pass; nothing else is reworded, reordered or removed. One of three prompt templates opencode uses. This one opens "You are opencode, an interactive CLI tool that helps users with software engineering tasks" and is shared by five of the seven models measured on this harness (`big-pickle`, `ling-3.0-flash-fin-free`, `mimo-v2.5-free`, `nemotron-3-ultra-free`, `nemotron-3.5-lightning-free`), which differ from one another by a few dozen characters. 11 tool definitions. The prompt measured 9,621 characters on the wire; the file below is a few hundred shorter because the placeholders are shorter than the paths they replace.
+- **Source**: opencode `run` mode, model `big-pickle`, chat-completions dialect.
+- **Note**: Captured on the wire rather than extracted from the shipped bundle. A local proxy in front of the model API recorded the request the harness actually sent, so this is the prompt as the harness assembled it at runtime on one machine, including the blocks that only exist at runtime. Machine-identifying strings - home directory, username, git name and email, gateway host, OS build, uuids, hex runs of 32 or more - are replaced with `{PLACEHOLDER}` tokens by a scrubber that aborts the capture rather than write a file if anything identifying survives the pass; nothing else is reworded, reordered or removed. One of three prompt templates opencode uses. This one opens "You are opencode, an interactive CLI tool that helps users with software engineering tasks" and is shared by five of the seven models measured on this harness (`big-pickle`, `ling-3.0-flash-fin-free`, `mimo-v2.5-free`, `nemotron-3-ultra-free`, `nemotron-3.5-lightning-free`), which differ from one another by a few dozen characters. 11 tool definitions. The prompt measured 9,621 characters on the wire; the file below is a few hundred shorter because the placeholders are shorter than the paths they replace. A working-directory path the capture scrubber missed was redacted to `{{CWD}}` by the maintainer.
 
 ---
 
@@ -106,8 +106,8 @@ assistant: Clients are marked as failed in the `connectToServer` function in src
 You are powered by the model named big-pickle. The exact model ID is opencode/big-pickle
 Here is some useful information about the environment you are running in:
 <env>
-  Working directory: D:\project_mxz\OrcaReplay\prompt\OrcaReplay
-  Workspace root folder: D:\project_mxz\OrcaReplay\prompt\OrcaReplay
+  Working directory: {{CWD}}
+  Workspace root folder: {{CWD}}
   Is directory a git repo: yes
   Platform: win32
   Today's date: Wed Sep 02 2026

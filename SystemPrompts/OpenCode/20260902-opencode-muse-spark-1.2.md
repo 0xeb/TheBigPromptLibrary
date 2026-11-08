@@ -2,8 +2,8 @@
 
 - **Contributed by**: [xizhuomengcontin](https://github.com/xizhuomengcontin)
 - **Contributed on**: 09/02/2026
-- **Source**: opencode `run` mode, model `muse-spark-1.2-contributor-free`, Responses API dialect. Public copy: [prompt/OPENCODE/muse-spark-1-2-contributor-free-system-prompt.md](https://github.com/Continuum-AI-Corp/OrcaReplay/blob/main/prompt/OPENCODE/muse-spark-1-2-contributor-free-system-prompt.md)
-- **Note**: Captured on the wire rather than extracted from the shipped bundle. A local proxy in front of the model API recorded the request the harness actually sent, so this is the prompt as the harness assembled it at runtime on one machine, including the blocks that only exist at runtime. The proxy is [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay). Machine-identifying strings - home directory, username, git name and email, gateway host, OS build, uuids, hex runs of 32 or more - are replaced with `{PLACEHOLDER}` tokens by a scrubber that aborts the capture rather than write a file if anything identifying survives the pass; nothing else is reworded, reordered or removed. The second of the three templates. It opens "You are OpenCode, a coding agent that helps users with software engineering tasks" - capital C, different first line - and is the only one of the seven models measured that opencode drives over the responses dialect rather than chat completions. 11 tool definitions. The prompt measured 10,249 characters on the wire; the file below is a few hundred shorter because the placeholders are shorter than the paths they replace.
+- **Source**: opencode `run` mode, model `muse-spark-1.2-contributor-free`, Responses API dialect.
+- **Note**: Captured on the wire rather than extracted from the shipped bundle. A local proxy in front of the model API recorded the request the harness actually sent, so this is the prompt as the harness assembled it at runtime on one machine, including the blocks that only exist at runtime. Machine-identifying strings - home directory, username, git name and email, gateway host, OS build, uuids, hex runs of 32 or more - are replaced with `{PLACEHOLDER}` tokens by a scrubber that aborts the capture rather than write a file if anything identifying survives the pass; nothing else is reworded, reordered or removed. The second of the three templates. It opens "You are OpenCode, a coding agent that helps users with software engineering tasks" - capital C, different first line - and is the only one of the seven models measured that opencode drives over the responses dialect rather than chat completions. 11 tool definitions. The prompt measured 10,249 characters on the wire; the file below is a few hundred shorter because the placeholders are shorter than the paths they replace. A working-directory path the capture scrubber missed was redacted to `{{CWD}}` by the maintainer.
 
 ---
 
@@ -76,8 +76,8 @@ Use the instructions below and the tools available to assist the user.
 You are powered by the model named muse-spark-1.2-contributor-free. The exact model ID is opencode/muse-spark-1.2-contributor-free
 Here is some useful information about the environment you are running in:
 <env>
-  Working directory: D:\project_mxz\OrcaReplay\prompt\OrcaReplay
-  Workspace root folder: D:\project_mxz\OrcaReplay\prompt\OrcaReplay
+  Working directory: {{CWD}}
+  Workspace root folder: {{CWD}}
   Is directory a git repo: yes
   Platform: win32
   Today's date: Wed Sep 02 2026
