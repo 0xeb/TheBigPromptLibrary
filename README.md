@@ -18,6 +18,7 @@ The Big Prompt Library repository is a collection of various system prompts, cus
 
 | Date | Article |
 |------|---------|
+| 11/08/2026 | [omp: Use the AI Subscriptions You Already Pay For, From Any App](./Articles/omp-gateway/README.md) |
 | 10/23/2026 | [Full system inventory of the Perplexity Computer VM](./Articles/perplexity-sandbox/perplexity-computer-vm-env-10232026.md) |
 | 08/09/2026 | [When "Just Do It" Isn't Enough: Invoking Claude Code Tools by Name](./Articles/claude-code-tools/README.md) |
 | 08/06/2026 | [Full system inventory of the ChatGPT Work VM](./Articles/chatgpt-sandbox/chatgpt-work-vm-env-08062026.md) |

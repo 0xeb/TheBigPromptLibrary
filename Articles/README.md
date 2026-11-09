@@ -19,3 +19,7 @@ Articles by **Elias Bachaalany** — [@0xeb](https://github.com/0xeb) on GitHub 
 
 - 08/09/2026 - [When "Just Do It" Isn't Enough: Invoking Claude Code Tools by Name](./claude-code-tools/README.md)
 - 02/04/2026 - [Your Own Key, Their Telemetry: What Claude Code phones home in BYOK mode](./claude-code-byok-telemetry/README.md)
+
+# Coding agents
+
+- 11/08/2026 - [omp: Use the AI Subscriptions You Already Pay For, From Any App](./omp-gateway/README.md)
