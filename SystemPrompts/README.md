@@ -99,6 +99,9 @@ System prompts / instructions of various LLM systems.
 
 ## Mistral
 
+See: [https://github.com/mistralai/mistral-vibe](https://github.com/mistralai/mistral-vibe)
+
+- [Mistral Vibe - default system prompt - 11/09/2026](./Mistral/mistral_vibe_20261109/README.md) - official Apache-2.0 base prompt; runtime additions not included
 - [Le Chat - 02/12/2024](./Mistral/lechat-02122025.md)
 - [Le Chat - 11/18/2024](./Mistral/lechat-11182024.md)
 
